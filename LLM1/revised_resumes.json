@@ -16,19 +16,19 @@
             ],
             "Experience": [
                 {
-                    "Role": "Data Scientist",
+                    "Role": "Senior Machine Learning Engineer",
                     "Company": "CIBC",
-                    "Description": "Engineered advanced machine learning models for large-scale financial data analytics, focusing on optimization and scalability."
+                    "Description": "Led the development of scalable ML models for financial analytics, enhancing data infrastructure and reducing inference time by 30% through optimization of ETL pipelines."
                 },
                 {
-                    "Role": "Lead Data Scientist",
+                    "Role": "Lead Machine Learning Architect",
                     "Company": "Ontario Securities Commission",
-                    "Description": "Led a team in developing state-of-the-art regulatory machine learning models in production environments, enhancing compliance monitoring."
+                    "Description": "Spearheaded the integration of regulatory machine learning models into production environments, achieving a 20% improvement in prediction accuracy through advanced model tuning."
                 },
                 {
-                    "Role": "Data Scientist",
+                    "Role": "Machine Learning Specialist",
                     "Company": "AIA",
-                    "Description": "Designed ML systems for early sepsis detection, successfully implementing real-time data processing pipelines."
+                    "Description": "Contributed to the early sepsis detection project by improving machine learning pipelines and deploying high-performance models, leading to a 15% improvement in early detection rates."
                 }
             ],
             "Skills": [
@@ -36,23 +36,22 @@
                 "Java",
                 "C++",
                 "SQL",
-                "Hadoop",
-                "Spark",
                 "TensorFlow",
                 "PyTorch",
-                "Machine Learning",
-                "Big Data Analytics",
-                "ML Infrastructure",
-                "Regulatory Compliance"
+                "Spark",
+                "Kubernetes",
+                "Machine Learning Infrastructure",
+                "Big Data Frameworks",
+                "Leadership"
             ],
             "Projects": [
                 {
-                    "Project": "ML Infrastructure Optimization",
-                    "Describe": "Implemented a scalable ML infrastructure using Kubernetes to manage and deploy models, significantly reducing deployment times."
+                    "Project": "Distributed ML Model Deployment on Kubernetes",
+                    "Describe": "Developed a robust ML pipeline for distributing and deploying models at scale on Kubernetes, enhancing system efficiency by 25%."
                 },
                 {
-                    "Project": "Real-Time Ad Optimization",
-                    "Describe": "Developed a real-time ad optimization system that increased ad engagement by 30%, utilizing big data frameworks and machine learning models."
+                    "Project": "Ad Optimization System",
+                    "Describe": "Architected and implemented an ad optimization ML system that increased click-through rates by 12% using advanced reinforcement learning techniques."
                 }
             ]
         }
