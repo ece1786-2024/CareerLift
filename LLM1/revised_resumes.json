@@ -1,0 +1,60 @@
+[
+    {
+        "ResumeIndex": 0,
+        "ResumeJSON": {
+            "Education": [
+                {
+                    "Degree": "Master's degree in Data Science & Artificial Intelligence",
+                    "Institution": "University of Waterloo",
+                    "CGPA": "3.88/4"
+                },
+                {
+                    "Degree": "Bachelor's degree in Mathematics & Economics",
+                    "Institution": "Queen's University",
+                    "CGPA": "4.12/4.3"
+                }
+            ],
+            "Experience": [
+                {
+                    "Role": "Data Scientist",
+                    "Company": "CIBC",
+                    "Description": "Engineered advanced machine learning models for large-scale financial data analytics, focusing on optimization and scalability."
+                },
+                {
+                    "Role": "Lead Data Scientist",
+                    "Company": "Ontario Securities Commission",
+                    "Description": "Led a team in developing state-of-the-art regulatory machine learning models in production environments, enhancing compliance monitoring."
+                },
+                {
+                    "Role": "Data Scientist",
+                    "Company": "AIA",
+                    "Description": "Designed ML systems for early sepsis detection, successfully implementing real-time data processing pipelines."
+                }
+            ],
+            "Skills": [
+                "Python",
+                "Java",
+                "C++",
+                "SQL",
+                "Hadoop",
+                "Spark",
+                "TensorFlow",
+                "PyTorch",
+                "Machine Learning",
+                "Big Data Analytics",
+                "ML Infrastructure",
+                "Regulatory Compliance"
+            ],
+            "Projects": [
+                {
+                    "Project": "ML Infrastructure Optimization",
+                    "Describe": "Implemented a scalable ML infrastructure using Kubernetes to manage and deploy models, significantly reducing deployment times."
+                },
+                {
+                    "Project": "Real-Time Ad Optimization",
+                    "Describe": "Developed a real-time ad optimization system that increased ad engagement by 30%, utilizing big data frameworks and machine learning models."
+                }
+            ]
+        }
+    }
+]
