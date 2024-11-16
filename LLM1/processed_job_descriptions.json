@@ -1,0 +1,19 @@
+{
+    "JobDescriptions": [
+        {
+            "JDIndex": 0,
+            "JDJSON": {
+                "Role": "The Sr. Staff Software Engineer will lead the development of next-generation machine learning data and training systems to enhance Pinterest's monetization efforts. The role involves optimizing ads ML training performance, integrating new technologies, and collaborating with internal and external ML communities.",
+                "Qualification": [
+                    "Bachelor's degree in Computer Science or a related field",
+                    "Over ten years of experience in designing large-scale production ML infrastructure systems",
+                    "Proficiency in programming languages like Java, C++, or Python",
+                    "Familiarity with big data frameworks such as Spark, Ray, or Kubernetes",
+                    "Strong communication skills",
+                    "Collaborative mindset",
+                    "Ability to collaborate in-office 1-2 times per week in San Francisco, Palo Alto, or Seattle"
+                ]
+            }
+        }
+    ]
+}
