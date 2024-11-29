@@ -38,21 +38,24 @@ class Judge:
 
 
 # ------------------------------------------test case------------------------------------------
-with open('processed_original_resumes.json', 'r') as file:
-    original_resume = json.load(file)
-
-with open('processed_job_descriptions.json', 'r') as file:
-    job_description = json.load(file)
-
-with open('revised_resumes.json', 'r') as file:
-    revised_resume = json.load(file)
 
 OPENAI_API_KEY = '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'
 
-judge = Judge(revised_resume, original_resume, job_description, OPENAI_API_KEY)
-score = judge.get_response()
+with open('originalresume_jd12.json', 'r') as file:
+    applicant_data = json.load(file)
 
-print(score)
+with open('revised_resume12.json', 'r') as file:
+    revised_data = json.load(file)
 
-with open('test_score_0', 'w', encoding='utf-8') as file:
-    file.write(score)
+for i in range(len(revised_data)):
+    original_resume = applicant_data[i]['Resume']
+    job_description = applicant_data[i]['JobDescription']
+    revised_resume = revised_data[i]
+
+    judge = Judge(revised_resume, original_resume, job_description, OPENAI_API_KEY)
+    score = judge.get_response()
+
+    print(score)
+    save_file_name = 'new_score-' + str(i+1) + '.txt'
+    with open(save_file_name, 'w', encoding='utf-8') as file:
+        file.write(score)
