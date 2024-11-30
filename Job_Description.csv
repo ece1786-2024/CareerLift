@@ -1,0 +1,180 @@
+Title,JD
+SDE,"Roles:
+Design, build, and maintain highly scalable, robust, and efficient cloud infrastructure using Google Cloud Platform (GCP) services, including Vertex AI, BigTable, BigQuery, and Cloud Composer.
+Develop automation and orchestration of ML pipelines, integrating data ingestion, feature engineering, training, and deployment processes.
+Collaborate with cross-functional teams to understand their needs and build solutions that improve platform usability, scalability, and the overall development experience.
+Optimize data processing pipelines and cloud resources to ensure low-latency, cost-effective operation.
+Implement monitoring, alerting, and failover strategies to ensure platform reliability.
+Stay updated with industry trends and best practices in cloud engineering, data engineering, and machine learning
+Qualifications:
+ 
+Customer-centric mindset: Passionate about delivering an exceptional experience for data scientists through a self-service platform, reducing friction in their workflows.
+Collaboration: Strong communication skills to work closely with cross-functional teams, including data scientists and engineers, to ensure platform features meet user needs and expectations.
+Problem-solving: Ability to identify and solve complex technical issues related to ML pipelines, cloud infrastructure, and scalability, ensuring an efficient and robust platform.
+Automation-first approach: Commitment to streamlining and automating processes for scalability and reliability, enabling data scientists to focus on experimentation and model development.
+Adaptability: Ability to quickly adjust to new technologies and evolving platform needs to keep the infrastructure cutting-edge and efficient.
+Ownership and initiative: Comfortable taking ownership of key platform components, driving innovation and improvements that benefit the platform’s scalability and usability.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+2+ years of experience in software engineering with a focus on cloud infrastructure and/or data engineering.
+Hands-on experience with Google Cloud Platform services such as Vertex AI, BigTable, BigQuery, Cloud Composer, Cloud Storage, etc.
+Proficiency in one or more programming languages such as Python, Java, and SQL.
+Experience with orchestration tools such as Apache Airflow (Composer).
+Knowledge of CI/CD pipelines and DevOps tools for continuous integration and deployment.
+Familiarity with containerization and orchestration (Docker, Kubernetes).
+Strong problem-solving skills and attention to detail.
+Excellent communication skills and ability to work in a collaborative, fast-paced environment"
+DS,"THE ROLE:
+Develop advanced analytics and predictive models from design through implementation in the areas of pricing and promotion, marketing, merchandising, and other areas of the business as needed
+Participate in the research of analytical methods to find or advance solutions to business problems
+Clearly and concisely explain complex analytical findings to non-analytical peers and business leaders
+Create analytic datasets in collaboration with data engineering teams that involves data querying, cleaning, transformation, and feature engineering. Define requirements and test cases for Data validation and monitoring
+Author programming code (e.g., SQL, Python, R, spark) to assemble and analyze data, following/establishing/enhancing organizational standards and coding practices including code management (i.e. Documentation, use ofGit Hub). Lead and participate in peer code reviews for QA/QC/standards compliance.
+Train/Mentor other team members, provide developmental support where necessary
+Follow defined project management processes. Actively participate in project plan development and agile ceremonies (development of backlog, sprint planning, daily standups, retros/reviews) and documentation.
+ 
+Qualifications:
+ 
+Education 
+ 
+Bachelor’s degree required, preferably with a quantitative focus (Statistics, Business Analytics, Data Science, Math, Economics, etc.)
+Master’s degree preferred
+Masters + 1year / Bachelors + 2 years of experience in a data science/advanced analytics role, or demonstrated ability to perform job functions via academic project/internship experience
+Knowledge And Skills
+ 
+Demonstrated knowledge of SQL, R and Python;
+Experience querying large datasets using SparkSQL or PySpark;
+Experience with ML frameworks such as scikit-learn, Tensorflow, Keras, Pytorch, etc.;
+Exposure with software development practices, object-oriented principles and test automation;
+Exposure to version control systems such as Git – experience preferred
+Experience with cloud-based analytics environments (Azure, AWS or GCP);
+Experience applying operational research, statistical and machine learning techniques such as regression, time series forecasting, clustering, optimization, etc.;
+Exposure to agile methodologies using project planning and tracking management tools e.g., JIRA; experience preferred
+Strong problem-solving skills and ability to troubleshoot complex distributed systems;
+Strong interpersonal skills, including the ability to communicate the business benefits of analytics;
+Availability to travel up to 10% of the time"
+MLE,"The Role:  You will be part of the central SAP AI Development Unit and support our customers with  the adoption of SAP Business AI solutions, helping them to improve their business results based on latest machine learning technology. In this role you work closely with our development teams and the customer to achieve high value propositions and apply machine learning technology in the daily work of our customers.  As a (Senior) Development Project Consultant you guide and steer customer and internal teams  to achieve state of the art machine learning solutions.This position requires the ability to work and communicate in a dynamic, interdisciplinary, and intercultural team in an agile and efficient way.  As a thought leader in Machine Learning you appreciate the possibility for learning and personal development and therefore you keep track of the latest developments and share your knowledge actively with others. You will be working with and leading teams to successful projects in the context of Machine Learning Technology.  Qualifications:  
+Degree in Mathematics, Physics, Computer Science, Data Science
+Several years relevant work experience in sales or technical oriented customer projects
+Experienced in guiding customer interactions up to C Level
+Good Overview of Machine Learning Trends and Technolgy
+Experience in implementation of Machine Learning solutions and platforms
+Knowledge and experience in Machine Learning Programming Frameworks, like TensorFlow or scikit
+Programming Skills, like ABAP, Java, Python, JavaScript, NodeJS, Jupyter Notebook, ABAP
+Database Knowledge
+Web and Cloud Computing Knowledge
+Ideally SAP technology and SAP system integration technology
+Fluency in English AND German (written and spoken language)
+
+"
+DS,"The Role:
+ 
+As an Applied Scientist Intern, you will:
+ 
+Experiment and Develop: You can be involved in the entire model development lifecycle, building, testing, and delivering high-quality solutions.
+Collaborate: Working on a collaborative cross-functional team, you will learn from and partner with colleagues across the globe. 
+Innovate: You will have the opportunity to try new approaches and learn new technologies. You will contribute ideas and work on solving real-world challenges.
+Qualifications:
+ 
+You are fit for the Applied Scientist Intern role if your background includes some of the following:
+ 
+Be currently enrolled in a PhD program relevant discipline or Master’s program with research experience.
+Have an understanding and experience with Natural Language Processing, and/or Machine Learning methods including Large Language Models.
+Have experience creating and evaluating experiments related to Machine Learning or Large Language Models.
+Have proficiency in implementing solutions using Python, DL/ML/NLP frameworks, and relevant tools.
+Have experience in using code collaboration and versioning systems such as GitHub.
+Have familiarity with cloud tools such as Amazon AWS, MS Azure, or Google Cloud.
+Are comfortable working with unstructured datasets and are knowledgeable about tools and techniques for data cleaning and processing.
+Have a data-driven problem-solving and decision-making mindset.
+Have good communication skills and the ability to work collaboratively as part of a team."
+DS,"Role:
+Build, maintain, deploy, and improve our data science models and products – You will work with a team of experienced Developers and Data Scientists on custom analytics products using market data and alternative data. The custom models and solutions you build will be used by internal teams across the firm: Portfolio Management, Trading, Risk, Compliance, Business Development, Operations, and Quant Research.
+You will focus on developing data products – You’ll focus on building, documenting, and deploying data transformation, data visualization, model training, and inference pipelines.
+You will have the opportunity to work with Portfolio Managers and Investment Teams to actively enhance Trading & Analytics software. You will manage individual projects, priorities, and results.
+Collaborate with your peers – You will provide and receive direct and regular feedback from your team and internal customers. You will receive coaching, mentorship, and development opportunities from Senior Technologists, Portfolio Managers, and others in the organization.
+ 
+Qualifications:
+ 
+You have a passion for data science, finance, and problem solving – You have hands-on experience with Python, SQL, and common data tools. You have a good understanding of data quality issues and are diligent to ensure high quality inputs are fed into models. You are eager to continuously expand your knowledge about technology and finance. You have already built and deployed statistical machine learning models in production and may have explored emerging artificial intelligence tools such as language models.
+You are driven to be a top developer – You are the go-to data scientist in your area or team (or even your organization). You are highly recognized for your excellent productivity, creativity, technical capability, sense of ownership, and collaborative attitude.
+You have a keen interest in the financial industry – You are eager to learn about the financial industry from your work, peers, and industry experts. Previous experience with custom investment research and building analytical models in a major asset class (equities, rates, credit, or commodities) is highly desirable.
+You can balance writing clean and quality code with prompt execution and delivery – You have a strong work ethic and are able to balance working in a fast-paced environment with writing quality code.
+You are an excellent communicator – You can communicate with people of varying levels of technical expertise to dissect, test, and execute projects. You enjoy troubleshooting and working on solving interesting and complicated problems."
+MLE,"Role:  
+Design, develop, and maintain machine learning pipelines for internal and client-driven projects.
+Deploy machine learning models, including pre-trained models (e.g., LLMs), into production environments and ensure scalability and performance.
+Collaborate with data scientists to translate models into production-ready systems that meet business requirements.
+Optimize and tune machine learning models for performance, reliability, and cost-efficiency.
+Integrate machine learning models with cloud platforms and other infrastructure (e.g., AWS, GCP, Azure).
+Implement model monitoring, logging, and maintenance systems to ensure continuous operation and improvement of deployed models.
+Work closely with software engineering teams to ensure seamless model integration into larger applications.
+Stay up to date with the latest advancements in machine learning engineering, infrastructure, and deployment technologies.  
+Qualifications:  
+Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or a related field. Ph.D. is a plus.
+3+ years of experience in machine learning engineering, software engineering, or a related role.
+Strong programming skills in Python, Java, or similar languages, with proficiency in ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+Hands-on experience with deploying pre-trained models, such as Large Language Models (LLMs), into production environments.
+Experience with cloud platforms (AWS, GCP, Azure) and containerization technologies (Docker, Kubernetes).
+Solid understanding of data pipelines, ETL processes, and version control systems (e.g., Git).
+Experience in building scalable, distributed systems and optimizing machine learning models for performance.
+Familiarity with MLOps tools and practices, including model versioning, monitoring, and CI/CD pipelines.
+Strong communication skills and ability to collaborate with cross-functional teams, including data scientists and engineers.
+"
+MLE,"Roles:
+ 
+Develop, train, and deploy machine learning models on Google Cloud Platform (GCP), leveraging tools such as VertexAI, GenApp Builder, PalmApi and BigQueryML.
+Collaborate with cross-functional teams to gather requirements, define project goals, and design scalable machine learning architectures.
+Conduct data preprocessing, feature engineering, and model evaluation to ensure high-quality and reliable models.
+Implement and optimize machine learning algorithms and pipelines to handle large-scale text-based datasets.
+Explore and experiment with generative AI techniques, including large language models, to solve complex text-related problems.
+Monitor and maintain deployed models, ensuring performance, scalability, and reliability in production environments.
+Stay up-to-date with the latest advancements in machine learning, generative AI, and text-based models, and proactively propose innovative solutions to enhance existing systems.
+ 
+ 
+Qualifications:
+ 
+Bachelor's or advanced degree in Computer Science, Engineering, or a related field.
+Strong experience in machine learning engineering, with a focus on developing and deploying models in production environments.
+Proficiency in using Google Cloud Platform (GCP) tools and services for machine learning, such as Vertex AI, BigQuery, and TensorFlow.
+Solid understanding of deep learning architectures, natural language processing (NLP), and generative AI models, particularly in the text domain.
+Proficiency in Python and experience with relevant libraries and frameworks, such as TensorFlow, PyTorch, or Keras.
+Experience with data preprocessing, feature engineering, and model evaluation techniques for text-based datasets.
+Familiarity with MLOps practices, version control, and CI/CD pipelines for machine learning.
+Strong problem-solving skills and the ability to work on complex projects independently or collaboratively.
+Excellent communication skills, with the ability to convey complex technical concepts to both technical and non-technical stakeholders.
+Experience with large language models, such as GPT-3, BERT, or Transformer-based models.
+Familiarity with cloud-based machine learning services and technologies, beyond Google Cloud Platform.
+Knowledge of scalable distributed computing frameworks, such as Apache Spark or Hadoop.
+Contributions to open-source machine learning projects or research publications in the field.
+"
+SDE,"Roles:
+ 
+Come up with diverse problems and solutions for a coding chatbot
+Write high-quality answers and code snippets
+Evaluate code quality produced by AI models for correctness and performance
+ 
+Qualifications:
+ 
+Fluency in English (native or bilingual level)
+Proficient in either Python and/or JavaScript
+Excellent writing and grammar skills
+A bachelor's degree (completed or in progress)
+Previous experience as a Software Developer, Coder, Software Engineer, or Programmer
+"
+SDE,"Roles:  
+Conduct tasks related to feasibility studies, time and cost estimates, IT planning, risk technology, applications development, model development, and establish and implement new or revised applications systems and programs to meet specific business needs or user areas
+Monitor and control all phases of development process and analysis, design, construction, testing, and implementation as well as provide user and operational support on applications to business users
+Utilize in-depth specialty knowledge of applications development to analyze complex problems/issues, provide evaluation of business process, system process, and industry standards, and make evaluative judgement
+Recommend and develop security measures in post implementation analysis of business usage to ensure successful system design and functionality
+Consult with users/clients and other technology groups on issues, recommend advanced programming solutions, and install and assist customer exposure systems
+Ensure essential procedures are followed and help define operating standards and processes
+Serve as advisor or coach to new or lower level analysts
+Has the ability to operate with a limited level of direct supervision.
+Can exercise independence of judgement and autonomy.
+Acts as SME to senior stakeholders and /or other team members.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.  
+Qualifications:  
+5-8 years of relevant experience
+Experience in systems analysis and programming of software applications
+Experience in managing and implementing successful projects
+Working knowledge of consulting/project management techniques/methods
+Ability to work under pressure and manage deadlines or unexpected changes in expectations or requirements"
