@@ -1,0 +1,13 @@
+{
+    "Original Resumes": [
+        {
+            "ResumeIndex": 0,
+            "ResumeJSON": {
+                "Education": "Honors Bachelor of Science in Physics, Minor in Computing\nInstitution: University of Waterloo",
+                "Skills": "Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), SQL, Java, JavaScript (including jQuery)\nMachine Learning: Regression, SVM, Na\u00efve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, NLP, Dimensionality Reduction, Topic Modeling (LDA, NMF), PCA, Neural Networks\nDatabase & Visualization Tools: MySQL, SQL Server, Cassandra, HBase, Elasticsearch, D3.js, DC.js, Plotly, Kibana, matplotlib, ggplot, Tableau\nOther Tools/Technologies: Regular Expressions, HTML, CSS, Angular 6, Logstash, Kafka, Flask, Git, Docker, OpenCV, Deep Learning concepts",
+                "Experience": "Data Science Assurance Associate \u2013 Ernst & Young LLP\nFraud Investigations & Dispute Services\nTechnology Assisted Review (TAR):\nDeveloped an automated review platform implementing predictive coding and topic modeling, reducing review costs and time.\nConducted R&D on classification models, predictive analysis, and text data mining for fraud detection.\nTools: Python, scikit-learn, tfidf, word2vec, doc2vec, Na\u00efve Bayes, LDA, NMF, Tableau\nMultiple Data Science Projects for USA Clients:\nText Analytics (Motor Vehicle Customer Reviews):\nPerformed sentiment analysis and time-series analysis on survey data.\nCreated visualizations like heat maps, word clouds, and Tableau dashboards.\nTools: Python, NLP (NLTK, spacy), scikit-learn, Tableau\nChatbot Development:\nDesigned a chatbot to handle customer queries, build question pipelines, and provide recommendations.\nTools: Python, JavaScript, SQL Server, NLP, topic modeling\nInformation Governance:\nScanned and analyzed unstructured data for metadata extraction and indexing in Elasticsearch.\nConducted ROT (Redundant, Outdated, Trivial) analysis and full-text search for identifying PII.\nTools: Python, Flask, Elasticsearch, Kibana\nFraud Analytic Platform (FAP):\nDeveloped a platform for fraud detection using advanced analytics for ERP systems.\nTools: HTML, JavaScript, SQL Server, jQuery, Bootstrap, D3.js, DC.js",
+                "Projects": ""
+            }
+        }
+    ]
+}

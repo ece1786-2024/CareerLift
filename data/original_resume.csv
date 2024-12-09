@@ -1,0 +1,33 @@
+﻿Original Resume
+"Education
+Honors Bachelor of Science in Physics, Minor in Computing
+Institution: University of Waterloo
+
+Skills
+Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), SQL, Java, JavaScript (including jQuery)
+Machine Learning: Regression, SVM, Naïve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, NLP, Dimensionality Reduction, Topic Modeling (LDA, NMF), PCA, Neural Networks
+Database & Visualization Tools: MySQL, SQL Server, Cassandra, HBase, Elasticsearch, D3.js, DC.js, Plotly, Kibana, matplotlib, ggplot, Tableau
+Other Tools/Technologies: Regular Expressions, HTML, CSS, Angular 6, Logstash, Kafka, Flask, Git, Docker, OpenCV, Deep Learning concepts
+
+Experience
+Data Science Assurance Associate – Ernst & Young LLP
+Fraud Investigations & Dispute Services
+Technology Assisted Review (TAR):
+Developed an automated review platform implementing predictive coding and topic modeling, reducing review costs and time.
+Conducted R&D on classification models, predictive analysis, and text data mining for fraud detection.
+Tools: Python, scikit-learn, tfidf, word2vec, doc2vec, Naïve Bayes, LDA, NMF, Tableau
+Multiple Data Science Projects for USA Clients:
+Text Analytics (Motor Vehicle Customer Reviews):
+Performed sentiment analysis and time-series analysis on survey data.
+Created visualizations like heat maps, word clouds, and Tableau dashboards.
+Tools: Python, NLP (NLTK, spacy), scikit-learn, Tableau
+Chatbot Development:
+Designed a chatbot to handle customer queries, build question pipelines, and provide recommendations.
+Tools: Python, JavaScript, SQL Server, NLP, topic modeling
+Information Governance:
+Scanned and analyzed unstructured data for metadata extraction and indexing in Elasticsearch.
+Conducted ROT (Redundant, Outdated, Trivial) analysis and full-text search for identifying PII.
+Tools: Python, Flask, Elasticsearch, Kibana
+Fraud Analytic Platform (FAP):
+Developed a platform for fraud detection using advanced analytics for ERP systems.
+Tools: HTML, JavaScript, SQL Server, jQuery, Bootstrap, D3.js, DC.js"

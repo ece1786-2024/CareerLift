@@ -1,0 +1,13 @@
+Skill: Cloud Expertise and Orchestration
+- Gain practical experience with Google Cloud Platform (GCP) services such as Vertex AI and BigTable through online courses or projects.
+- Learn and apply orchestration tools like Apache Airflow by setting up mock environments or contributing to relevant open-source projects.
+- Focus on completing a Google Cloud certification to solidify credentials in cloud technologies.
+
+Skill: Automation and Scalability
+- Participate in workshops or hackathons centered on automating ML pipelines to gain hands-on experience.
+- Engage with communities and forums related to DevOps to stay updated with best practices and innovations.
+
+Skill: Collaboration Skills
+- Improve communication and collaboration abilities through interdisciplinary team projects or group coding challenges.
+- Seek feedback from peers on collaboration and incorporate this feedback to enhance team dynamics.
+

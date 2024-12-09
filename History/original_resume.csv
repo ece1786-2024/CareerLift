@@ -1,0 +1,2037 @@
+﻿Original Resume
+"Education
+Honors Bachelor of Science in Physics, Minor in Computing
+Institution: University of Waterloo
+Skills
+Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), SQL, Java, JavaScript (including jQuery)
+Machine Learning: Regression, SVM, Naïve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, NLP, Dimensionality Reduction, Topic Modeling (LDA, NMF), PCA, Neural Networks
+Database & Visualization Tools: MySQL, SQL Server, Cassandra, HBase, Elasticsearch, D3.js, DC.js, Plotly, Kibana, matplotlib, ggplot, Tableau
+Other Tools/Technologies: Regular Expressions, HTML, CSS, Angular 6, Logstash, Kafka, Flask, Git, Docker, OpenCV, Deep Learning concepts
+Experience
+Data Science Assurance Associate – Ernst & Young LLP
+Fraud Investigations & Dispute Services
+Technology Assisted Review (TAR):
+Developed an automated review platform implementing predictive coding and topic modeling, reducing review costs and time.
+Conducted R&D on classification models, predictive analysis, and text data mining for fraud detection.
+Tools: Python, scikit-learn, tfidf, word2vec, doc2vec, Naïve Bayes, LDA, NMF, Tableau
+Multiple Data Science Projects for USA Clients:
+Text Analytics (Motor Vehicle Customer Reviews):
+Performed sentiment analysis and time-series analysis on survey data.
+Created visualizations like heat maps, word clouds, and Tableau dashboards.
+Tools: Python, NLP (NLTK, spacy), scikit-learn, Tableau
+Chatbot Development:
+Designed a chatbot to handle customer queries, build question pipelines, and provide recommendations.
+Tools: Python, JavaScript, SQL Server, NLP, topic modeling
+Information Governance:
+Scanned and analyzed unstructured data for metadata extraction and indexing in Elasticsearch.
+Conducted ROT (Redundant, Outdated, Trivial) analysis and full-text search for identifying PII.
+Tools: Python, Flask, Elasticsearch, Kibana
+Fraud Analytic Platform (FAP):
+Developed a platform for fraud detection using advanced analytics for ERP systems.
+Tools: HTML, JavaScript, SQL Server, jQuery, Bootstrap, D3.js, DC.js"
+"Education
+Honors Bachelor of Science in Physics, Minor in Computing
+Institution: University of Waterloo
+Skills
+Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), SQL, Java, JavaScript (including jQuery)
+Machine Learning: Regression, SVM, Naïve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, NLP, Dimensionality Reduction, Topic Modeling (LDA, NMF), PCA, Neural Networks
+Database & Visualization Tools: MySQL, SQL Server, Cassandra, HBase, Elasticsearch, D3.js, DC.js, Plotly, Kibana, matplotlib, ggplot, Tableau
+Other Tools/Technologies: Regular Expressions, HTML, CSS, Angular 6, Logstash, Kafka, Flask, Git, Docker, OpenCV, Deep Learning concepts
+Experience
+Data Science Assurance Associate – Ernst & Young LLP
+Fraud Investigations & Dispute Services
+Technology Assisted Review (TAR):
+Developed an automated review platform implementing predictive coding and topic modeling, reducing review costs and time.
+Conducted R&D on classification models, predictive analysis, and text data mining for fraud detection.
+Tools: Python, scikit-learn, tfidf, word2vec, doc2vec, Naïve Bayes, LDA, NMF, Tableau
+Multiple Data Science Projects for USA Clients:
+Text Analytics (Motor Vehicle Customer Reviews):
+Performed sentiment analysis and time-series analysis on survey data.
+Created visualizations like heat maps, word clouds, and Tableau dashboards.
+Tools: Python, NLP (NLTK, spacy), scikit-learn, Tableau
+Chatbot Development:
+Designed a chatbot to handle customer queries, build question pipelines, and provide recommendations.
+Tools: Python, JavaScript, SQL Server, NLP, topic modeling
+Information Governance:
+Scanned and analyzed unstructured data for metadata extraction and indexing in Elasticsearch.
+Conducted ROT (Redundant, Outdated, Trivial) analysis and full-text search for identifying PII.
+Tools: Python, Flask, Elasticsearch, Kibana
+Fraud Analytic Platform (FAP):
+Developed a platform for fraud detection using advanced analytics for ERP systems.
+Tools: HTML, JavaScript, SQL Server, jQuery, Bootstrap, D3.js, DC.js"
+"""Technical Skills
+Programming Languages: Matlab, Python, Java, LabView
+Web Frameworks: Django, Flask
+Software Tools: LTSPICE (Intermediate), MIPOWER (Intermediate), GitHub (GitBash), Jupyter Notebook, XAMPP, MySQL (Basics)
+Python Software Packages: Anaconda, Python2, Python3, PyCharm
+IDE: Eclipse
+Operating Systems: Windows, Ubuntu, Debian-Kali Linux
+Education
+B.Tech in Electrical and Electronics Engineering
+Institution: Manipal Institute of Technology
+Graduation Date: January 2019
+Higher Secondary Education:
+DEEKSHA CENTER – January 2015
+High School:
+Little Flower Public School – January 2013
+Primary Education:
+Manipal Academy of Higher – August 2000
+Experience
+Data Science and Electrical Enthusiast
+
+Current Role: Data Analyst at TheMathCompany
+
+Project Description:
+
+Working with a casino operator (Macau-based, name undisclosed).
+Segmenting customers based on the value they bring to the company.
+Improved customer segmentation with detailed analysis and quantitative backing.
+Provided recommendations for implementing a target marketing strategy to attract high-value customers.
+Skills & Tools:
+
+Python, Matlab, SQL, Excel, Data Analysis, Mathematics, Machine Learning, Electrical Engineering"""
+"""Skills
+Programming & Tools: Python, R, C#, SQL, Tableau, SAP HANA, SAP HANA SQL, SAP HANA PAL, SAP Lumira
+Frameworks & Platforms: Django, Flask
+Advanced Analytics: Linear Programming, Data Modeling, NLP, Retail Analytics, SCM Analytics, Social Media Analytics
+Specialized Knowledge: Time Series Forecasting, K-Means Clustering, RFM Analysis
+Education
+PGDM in Business Analytics
+Institution: Great Lakes Institute of Management & Illinois Institute of Technology
+Duration: January 2017 – January 2018
+Bachelor of Engineering in Electronics and Communication
+Institution: New Horizon College of Engineering, Bengaluru (Visvesvaraya Technological University)
+Graduation Date: January 2013
+Professional Experience
+Consultant – Deloitte USI
+Project 1: Historic Deals Analysis
+
+Industry: Cross Industry
+Duration: 6 months
+Description: Conducted end-to-end analysis of historic deals, providing insights for price optimization and process improvement.
+Key Responsibilities:
+Extracted data across geographies.
+Built Tableau reports and generated insights.
+Technical Tools: R, Tableau
+Project 2: Handwriting Recognition
+
+Industry: Finance
+Duration: 3 months
+Description: Developed functionalities to convert handwritten images into digital text using LSTM models.
+Key Responsibilities:
+Gathered data for English words.
+Trained LSTM models for sentence correction.
+Technical Tools: Python
+Project 3: Financial Reporting Infrastructure (SWIFT)
+
+Industry: Finance
+Duration: 8 months
+Description: Developed analytics infrastructure for financial reporting and expense forecasting on SAP S/4.
+Key Responsibilities:
+Designed and developed data models.
+Built ETL processes and validated reports.
+Technical Tools: SAP HANA, Tableau, SAP AO
+Project 4: Clinical Healthcare System
+
+Industry: Healthcare Analytics
+Duration: 2 months
+Description: Developed analytics infrastructure with advanced analytics capabilities on top of Argus.
+Key Responsibilities:
+Designed and developed data models.
+Built analytical models and validated reports.
+Technical Tools: Data Modeling, SAP HANA, Tableau, NLP
+Project 5: Consumption-Based Planning (FMCG)
+
+Industry: FMCG
+Duration: 8 months
+Description: Implemented CRM and CBP modules for forecasting and performance improvements.
+Key Responsibilities:
+Designed HANA models and developed data flow for forecasts.
+Built customer/sales/funds reporting views.
+Technical Tools: SAP HANA, BOBJ, Time Series Forecasting
+Internal Initiative: Customer Segmentation & RFM Analysis
+
+Industry: FMCG
+Duration: 3 months
+Description: Set up a HANA-Python interface to segment customers and perform advanced analytics.
+Key Achievements:
+Segmented data using K-means and performed RFM analysis.
+Developed algorithms to categorize new customers.
+Technical Tools: Python, HANA
+Internal Initiative: Telecom Invoice State Detection
+
+Industry: Telecom
+Duration: 1 month
+Description: Automated invoice state detection using decision trees, reducing manual effort by 60%.
+Technical Tools: R, SAP PAL, SAP HANA
+Senior Developer – Accenture
+Project 1: In Process Analytics (IPA)
+
+Industry: Cross Industry
+Duration: 19 months
+Description: Developed database objects and data models to provide operational insights using SAP analytics tools.
+Key Responsibilities:
+Designed SAP HANA models (Attribute, Analytic, Calculation views).
+Developed KPIs using complex SQL scripts.
+Built dashboards and implemented predictive analytics.
+Technical Tools: R, SAP HANA, T-SQL
+Project 2: Testing Accelerator for SAP (ATAS)
+
+Industry: Cross Industry
+Duration: 21 months
+Description: Led development and deployment of the ATAS tool for database management and analytics.
+Key Responsibilities:
+Designed database objects (tables, views, stored procedures).
+Normalized database tables and performed performance tuning.
+Managed production and quality database servers.
+Technical Tools: SQL Server, C#, PL-SQL, T-SQL"""
+"""Skills
+Programming & Tools: Python, Tableau, R Studio
+Core Expertise: Data Visualization, Machine Learning, Statistics
+Certifications: IABAC Certified Data Scientist
+Special Interests: Advocates for augmented intelligence, with a passion for implementing business ideas in areas like Machine Learning, AI, and Robotics.
+Education
+B.Tech in Computer Science & Engineering
+Institution: Indo Global College of Engineering, Mohali, Punjab
+Graduation Date: January 2017
+Professional Experience
+Data Science Consultant – Datamites
+Duration: 24 months
+Key Responsibilities:
+Analyzed and processed complex datasets using advanced querying, visualization, and analytics tools.
+Loaded, extracted, and validated client data.
+Manipulated, cleaned, and processed data using Python.
+Developed data visualizations with Tableau.
+Data Analyst – Heretic Solutions Pvt Ltd
+Duration: [Not Specified]
+Key Responsibilities:
+Collaborated with business stakeholders to identify issues and proposed data-driven solutions for decision-making.
+Cleaned, processed, and analyzed data using Python, R, and Excel.
+Applied machine learning and statistical techniques to address business problems and generate actionable insights.
+Derived conclusions from raw data and developed tailored recommendations."""
+"""Skills
+Programming Languages: Python, C++, Java
+Libraries & Frameworks: Numpy, Pandas, Seaborn, Matplotlib, Cufflinks, TensorFlow, Keras
+Machine Learning & AI: Supervised, Unsupervised, and Reinforcement Learning; Algorithms like KNN, Decision Tree, SVM, Logistic Regression, Neural Networks, SGD
+Cloud Platforms: Google Cloud Platform (GCP)
+Databases: MySQL, Oracle
+Operating Systems: Linux, Ubuntu, Windows
+Development Environments: NetBeans, Sublime Text, Jupyter Notebooks
+Visualization Tools: Tableau, Excel, Python Libraries
+Education
+B.Tech in Computer Science Engineering
+
+Institution: Rayat and Bahra Institute of Engineering and Biotechnology
+Graduation Year: 2016
+Percentage: 78.4%
+Higher Secondary Education
+
+Institution: Moti Ram Arya Sr. Secondary School
+Year: 2012
+Percentage: 78.4%
+Secondary Education
+
+Institution: Valley Public School
+Year: 2010
+CGPA: 9.4
+Professional Experience
+Wipro Technologies
+Role: IT Professional (2 Years)
+Key Skills:
+Machine Learning, Deep Learning, Data Science, NLP, Neural Networks
+Managed end-to-end development of software projects, from inception to deployment.
+Proficient in Python libraries (Numpy, Pandas, Seaborn, Matplotlib) and cloud environments (GCP).
+Developed frameworks with an emphasis on code reusability.
+Strong interpersonal and problem-solving skills with a long-term perspective.
+Key Projects:
+
+Wipro Neural Intelligence Platform
+
+Team Size: 5
+Description:
+Developed a platform leveraging automation and AI technologies, including NLP, cognitive learning, and machine learning analytics. The platform:
+Accesses and manages structured/unstructured data sources.
+Includes sentiment and predictive analytics.
+Features a deep learning engine for continuous learning.
+Key Responsibilities:
+Automated responses to user queries with ""Monster Bot"" powered by Deep Learning and NLP.
+Developed the Entity Extractor for text processing using Regex, TensorFlow, and Bluemix NLU APIs.
+Designed a Classifier to train datasets and map user queries to optimized responses using SKLearn (MNB, SVM, SGD).
+Trained a deep learning NER model using an RNN (LSTM) bidirectional framework for entity extraction.
+Diabetes Detection Software
+
+Achievements:
+Created a solution to detect diabetes and received third prize in a competition."""
+"""Skills
+Programming Languages: Python, C++, Java
+Libraries & Frameworks: Numpy, Pandas, Seaborn, Matplotlib, Cufflinks, TensorFlow, Keras
+Machine Learning & AI: Supervised, Unsupervised, and Reinforcement Learning; Algorithms like KNN, Decision Tree, SVM, Logistic Regression, Neural Networks, SGD
+Cloud Platforms: Google Cloud Platform (GCP)
+Databases: MySQL, Oracle
+Operating Systems: Linux, Ubuntu, Windows
+Development Environments: NetBeans, Sublime Text, Jupyter Notebooks
+Visualization Tools: Tableau, Excel, Python Libraries
+Education
+B.Tech in Computer Science Engineering
+
+Institution: Rayat and Bahra Institute of Engineering and Biotechnology
+Graduation Year: 2016
+Percentage: 78.4%
+Higher Secondary Education
+
+Institution: Moti Ram Arya Sr. Secondary School
+Year: 2012
+Percentage: 78.4%
+Secondary Education
+
+Institution: Valley Public School
+Year: 2010
+CGPA: 9.4
+Professional Experience
+Wipro Technologies
+Role: IT Professional (2 Years)
+Key Skills:
+Machine Learning, Deep Learning, Data Science, NLP, Neural Networks
+Managed end-to-end development of software projects, from inception to deployment.
+Proficient in Python libraries (Numpy, Pandas, Seaborn, Matplotlib) and cloud environments (GCP).
+Developed frameworks with an emphasis on code reusability.
+Strong interpersonal and problem-solving skills with a long-term perspective.
+Key Projects:
+
+Wipro Neural Intelligence Platform
+
+Team Size: 5
+Description:
+Developed a platform leveraging automation and AI technologies, including NLP, cognitive learning, and machine learning analytics. The platform:
+Accesses and manages structured/unstructured data sources.
+Includes sentiment and predictive analytics.
+Features a deep learning engine for continuous learning.
+Key Responsibilities:
+Automated responses to user queries with ""Monster Bot"" powered by Deep Learning and NLP.
+Developed the Entity Extractor for text processing using Regex, TensorFlow, and Bluemix NLU APIs.
+Designed a Classifier to train datasets and map user queries to optimized responses using SKLearn (MNB, SVM, SGD).
+Trained a deep learning NER model using an RNN (LSTM) bidirectional framework for entity extraction.
+Diabetes Detection Software
+
+Achievements:
+Created a solution to detect diabetes and received third prize in a competition."""
+"""Education
+Post Graduate Program (PGP) in Data Science
+Institution: Aegis School of Data Science & Business, Mumbai
+Bachelor of Engineering (B.E.) in Electronics & Communication
+Institution: IES IPS Academy, Indore, Madhya Pradesh
+Professional Experience
+Data Scientist – PR Canada
+Extensive experience in machine learning, data analysis, and business intelligence projects.
+Adjunct Faculty & Project Lead – Aegis School of Data Science & Business
+Role: Industry Projects and Teaching Appointments (2017 – Present)
+Taught undergraduate and graduate courses on Spark and Machine Learning.
+Mentored 7-12 data science enthusiasts annually.
+Reviewed and evaluated 20-40 research papers on data science for conferences.
+Managed 4-5 live data science projects annually, focusing on real-world solutions.
+Key Projects:
+
+Chat Bot Development
+
+Tools: AWS LEX, TensorFlow, Python
+Built a chatbot for academic institutions to handle 24/7 queries, reducing human error and operational costs.
+Web Scraping
+
+Tools: Selenium, Python
+Scraped data from online messaging portals and identified patterns for actionable insights.
+Data Visualization for ISPs
+
+Tools: Hadoop Ecosystem, Hive, PySpark, QlikSense
+Visualized daily data for an internet service provider to identify usage patterns and generate reports.
+Image-Based Fraud Detection
+
+Tools: Microsoft Face API, PySpark, OpenCV
+Recognized fraudulent face matches by comparing database images, helping to prevent loan fraud.
+Churn Analysis for ISPs
+
+Tools: R, Python, Hadoop
+Predicted customer churn and provided retention strategies through machine learning models.
+Sentiment Analysis
+
+Tools: Python, NLP, Apache Spark (IBM Bluemix)
+Analyzed Twitter data to evaluate customer sentiment for mobile network service providers.
+Quantifiable Results:
+
+Mentored 7-12 students annually who pursued graduate school in Data Science and Business Analytics.
+Contributed to social causes like ""Let's Find a Missing Child,"" using data science for societal impact.
+Data Science Intern – Aegis School of Data Science
+Duration: Nov 2015 – Jan 2016
+Delivered insights, analytics, and strategic recommendations for business units.
+Senior Data Scientist – IBM India Pvt Ltd
+Role: Worked on IBM Watson and Bluemix for advanced data science solutions.
+Skill Details
+Programming: Python (36 months), R (24 months), SQL (24 months)
+Visualization Tools: Tableau (36 months), QlikSense
+Big Data Tools: Spark, PySpark, Hadoop
+Machine Learning & Algorithms: 24 months (KNN, Decision Tree, Linear Regression, Logistic Regression, Neural Networks)
+Data Analysis: 24 months
+Natural Language Processing (NLP): Sentiment analysis and chatbot development"""
+"""Skills
+Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), SQL, Java, JavaScript (jQuery).
+Machine Learning: Regression, SVM, Naïve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Clustering, Word Embedding, Sentiment Analysis, NLP, Dimensionality Reduction, Topic Modeling (LDA, NMF), PCA, Neural Networks.
+Database & Visualization Tools: MySQL, SQL Server, Cassandra, HBase, Elasticsearch, D3.js, DC.js, Plotly, Kibana, Matplotlib, ggplot, Tableau.
+Other Tools & Frameworks: Regular Expressions, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, OpenCV, and basic understanding of Deep Learning.
+Education
+Data Science Assurance Associate
+Employer: Ernst & Young LLP
+Professional Experience
+Data Science Assurance Associate – Ernst & Young LLP
+Role Description:
+Worked in the Fraud Investigations and Dispute Services Assurance domain, focusing on technology-assisted reviews and advanced analytics.
+Key Contributions:
+
+Technology Assisted Review (TAR):
+
+Developed an automated review platform for the e-discovery domain, leveraging predictive coding and topic modeling to reduce labor costs and review time.
+Conducted R&D for classification models and predictive analysis, ensuring high precision in identifying ""red flags"" and fraud indicators.
+Tools: Python, scikit-learn, TF-IDF, Word2Vec, Doc2Vec, Cosine Similarity, LDA, NMF, Vader, TextBlob, Matplotlib, Tableau.
+Multiple Data Science Projects (USA Clients):
+
+Text Analytics – Motor Vehicle Customer Review Data:
+Performed sentiment analysis and time-series analysis on customer feedback.
+Visualized insights with heat maps, word clouds, and customized Tableau dashboards.
+Chatbot Development:
+Built an intelligent chatbot for handling product-related queries with NLP techniques.
+Tools: Python, NLTK, spaCy, scikit-learn, SQL Server, JavaScript/jQuery.
+Information Governance:
+
+Scanned and parsed data from various formats, performed ROT (Redundant, Outdated, Trivial) analysis, and extracted PII for cybersecurity.
+Built interactive dashboards using Kibana.
+Tools: Python, Flask, Elasticsearch, Kibana.
+Fraud Analytics Platform (FAP):
+
+Developed a platform for analyzing accounting anomalies and red flags in ERP systems.
+Tools: HTML, JavaScript, SQL Server, jQuery, CSS, Bootstrap, Node.js, D3.js, DC.js."""
+"""Education
+B.E. in [Field Not Specified]
+Institution: UIT-RGPV
+Duration: May 2013 – May 2017
+Professional Experience
+Data Scientist – Matelabs
+Location: 60/A Koramangala 5th Block, Bengaluru, India
+Role Description:
+Worked on a machine learning platform designed for business professionals and enthusiasts, focusing on automation and advanced analytics.
+Key Achievements and Responsibilities:
+
+Machine Learning Automation:
+
+Developed and deployed preprocessing pipelines for machine learning tasks, including:
+Missing value treatment
+Outlier detection
+Encoding, scaling, feature selection, and dimensionality reduction
+Deployed automated classification and regression models.
+Time Series Forecasting:
+
+Researched and implemented forecasting models such as ARIMA, SARIMAX, Holt-Winter, and Prophet.
+Meta-Feature Extraction:
+
+Addressed meta-feature extraction problems, enhancing model performance and interpretability.
+Research Contributions:
+
+Implemented a state-of-the-art research paper on outlier detection for datasets with mixed attributes.
+Tools & Technologies:
+
+Programming & Libraries: Python, Keras, scikit-learn, Statsmodels, Scipy
+Machine Learning & Time Series: ARIMA, SARIMAX, Holt-Winter, Prophet
+Cloud Platforms: AWS
+Additional Links:
+
+LinkedIn: Aditya Rathore
+GitHub: Rathorology
+Skill Details
+Python: Less than 1 year
+Statsmodels: 12 months
+AWS: Less than 1 year
+Machine Learning: Less than 1 year
+scikit-learn: Less than 1 year
+Scipy: Less than 1 year
+Keras: Less than 1 year"""
+"""Skills
+Programming & Tools: Python, R, SAP HANA, Tableau, SQL (MS SQL, SAP HANA SQL, PAL), C#, NLP.
+Analytics Expertise: Linear Programming, Data Modeling, Retail Analytics, SCM Analytics, Social Media Analytics, Predictive Modeling, and Advanced Analytics.
+Visualization & Reporting: Tableau, SAP Lumira, BOBJ.
+Machine Learning Algorithms: K-Means, Decision Trees, Logistic Regression, LSTM, Time Series Forecasting.
+Education
+PGDM in Business Analytics (2017-2018)
+Institution: Great Lakes Institute of Management & Illinois Institute of Technology.
+B.E. in Electronics & Communication (2013)
+Institution: New Horizon College of Engineering, Bangalore (Visvesvaraya Technological University).
+Professional Experience
+Consultant – Deloitte USI
+Historic Deal Analysis: Analyzed raw data, generated insights for pricing, and identified process blockades using R and Tableau.
+Handwriting Recognition: Developed sentence correction functionality using LSTM and Python.
+SWIFT (Finance Reporting): Designed analytics infrastructure on SAP S/4, developed data models, and conducted forecasting using SAP HANA and Tableau.
+Clinical Healthcare System: Built analytical models for faster queries and advanced insights using SAP HANA and NLP.
+Consumption-Based Planning: Developed HANA models for customer/sales forecasts and reporting using BOBJ and Time Series Forecasting.
+Accenture Solutions Pvt. Ltd.
+SAP Analytics (IPA): Created KPIs and developed SAP HANA data models (Attribute, Analytic, and Calculation views).
+ATAS Tool Development: Designed and maintained database systems, optimized performance with SQL Profiler, and implemented dashboards.
+Key Projects
+Churn Analysis: Predicted customer churn for ISPs using R, Python, and Hadoop.
+Sentiment Analysis: Evaluated Twitter data for mobile networks with Python and NLP tools.
+Customer Segmentation: Built K-means models and RFM analysis in Python and HANA.
+Invoice State Detection: Automated invoice classification using R and SAP PAL.
+Fraud Detection: Developed image-based fraud detection models using PySpark, OpenCV, and Microsoft Face API."""
+"""Skills
+Programming Languages & Tools: Python, R Studio
+Visualization & Analytics Tools: Tableau, Data Visualization
+Core Expertise: Machine Learning, Statistics, Data Science
+Certification: IABAC Certified Data Scientist
+Profile Summary
+Over 1+ years of versatile experience in data science consulting, managing business analytics, and leading innovative projects.
+Passionate about leveraging machine learning, AI, and robotics to create real-world solutions.
+Advocate for augmented intelligence to enhance human capabilities through technology.
+Education
+B.Tech in Computer Science & Engineering
+Institution: Indo Global College of Engineering, Mohali, Punjab
+Graduation Date: January 2017
+Professional Experience
+Data Science Consultant – Datamites
+Duration: 24 months
+Key Responsibilities:
+Analyzed and processed complex datasets using advanced querying, visualization, and analytics tools.
+Loaded, extracted, and validated client data for analysis.
+Cleaned, manipulated, and processed data using Python.
+Built and designed visualizations using Tableau.
+Data Analyst – Heretic Solutions Pvt Ltd
+Key Responsibilities:
+Collaborated with business stakeholders to identify issues and propose data-driven solutions.
+Cleaned, manipulated, and analyzed data using Python, R, and Excel.
+Extracted insights from raw data and developed actionable recommendations.
+Utilized machine learning tools and statistical techniques to solve complex business problems."""
+"""Education
+B.Tech in Computer Science Engineering
+
+Institution: Rayat and Bahra Institute of Engineering and Biotechnology
+Graduation Year: 2016 (78.4%)
+Higher Secondary:
+
+Moti Ram Arya Sr. Secondary School (2012, 78.4%)
+Secondary Education:
+
+Valley Public School (2010, 9.4 CGPA)
+Technical Skills
+Programming Languages: Python, C++, Java
+Libraries & Frameworks: Numpy, Pandas, Seaborn, Matplotlib, TensorFlow, Keras, Scikit-learn
+Algorithms: KNN, Decision Tree, Logistic Regression, SVM, Neural Networks, RNN (LSTM)
+Databases: SQL, Oracle
+Cloud Platforms: Google Cloud Platform (GCP)
+Operating Systems: Linux, Ubuntu, Windows
+Visualization: Matplotlib, Cufflinks
+Development Environments: NetBeans, Sublime, Notebooks
+Professional Experience
+Data Scientist – Wipro Technologies
+Duration: 2 Years
+Key Projects:
+
+Wipro Neural Intelligence Platform:
+
+Developed a three-layer AI platform with NLP and Machine Learning.
+Automated responses to user queries with a ""Monster Bot"" powered by Deep Learning.
+Tools: TensorFlow, Regex, Bluemix NLU APIs.
+Key Components:
+
+Entity Extractor: Extracted important data (dates, names, contact numbers) using NLP.
+Classifier: Trained datasets with SKLearn algorithms (MNB, SVM, SGD).
+NER Model: Built using RNN (LSTM) for text entity extraction.
+Diabetes Detection System:
+
+Developed software to detect diabetes, securing third place in a competition.
+Tools: Python, Scikit-learn."""
+"""Education
+Master of Engineering in Computer Technology & Application
+
+Institution: Truba Institute of Engineering & Information Technology, Bhopal, Madhya Pradesh
+Graduation Date: January 2018
+Bachelor of Engineering in Computer Science
+
+Institution: RKDF Institute of Science and Technology, Bhopal, Madhya Pradesh
+Graduation Date: January 2010
+Diploma in Information Technology
+
+Institution: SATI Engineering College, Vidisha, Madhya Pradesh
+Graduation Date: January 2006
+M.Tech Thesis Detail:
+
+Institution: BMCH School, Ganj Basoda
+Graduation Date: January 2003
+Professional Experience
+RNT.AI Technology Solution
+Role: Data Science Intern
+Duration: 6 months
+Key Responsibilities:
+Performed text classification using machine learning algorithms in Python.
+Gained practical knowledge of deep learning algorithms like Recurrent Neural Networks (RNN).
+Developed custom data models and algorithms to process datasets.
+Conducted sentiment analysis and classification using TF-IDF, LSA, and cosine similarity.
+Conducted web scraping using Selenium WebDriver and Beautiful Soup.
+Worked with Python packages like Pandas, Scikit-learn, TensorFlow, Numpy, Matplotlib, and NLTK.
+Managed SQL and MySQL databases for data analysis.
+Life Insurance Corporation of India, Bhopal
+Role: Policy Advisor
+Key Responsibilities:
+Explained policy features and benefits to customers.
+Maintained up-to-date knowledge of life insurance products and shared insights with clients.
+Key Skills
+Programming & Tools: Python, SQL, MySQL, HTML, CSS
+Data Science & Machine Learning: Machine Learning, Deep Learning, NLP, Sentiment Analysis
+Web Technologies: Web Crawling using Selenium and Beautiful Soup
+Libraries & Frameworks: Pandas, Scikit-learn, TensorFlow, Numpy, Matplotlib, NLTK"""
+"""Education
+PGP in Data Science
+Institution: Aegis School of Data Science & Business, Mumbai, Maharashtra
+B.E. in Electronics & Communication
+Institution: IES IPS Academy, Indore, Madhya Pradesh
+Professional Experience
+Data Scientist – PR Canada
+Proficient in Python, Machine Learning, Data Visualization (Tableau, PySpark), and Big Data tools (Hadoop).
+Expertise in delivering impactful insights through analytics, predictive modeling, and KPI dashboards.
+Adjunct Faculty & Project Lead – Aegis School of Data Science & Business
+Role:
+
+Taught undergraduate and graduate-level courses on Spark and Machine Learning (2017 – Present).
+Mentored 7–12 data science enthusiasts annually, many of whom proceeded to graduate school.
+Notable Contributions:
+
+Managed 4–5 live projects yearly, focusing on real-world data science applications.
+Evaluated 20–40 research papers annually for the prestigious Data Science Congress.
+Led a team to develop social-impact solutions, including ""Let’s Find a Missing Child,"" aiding community welfare.
+Data Science Intern – Aegis School of Data & Business (Nov 2015 – Jan 2016)
+Furnished leadership teams with insights, analytics, and recommendations for strategic planning.
+Key Projects:
+Chatbot Development (AWS LEX, TensorFlow):
+
+Built a chatbot for academic institutions, reducing manual effort and errors.
+Web Scraping (Python, Selenium):
+
+Scraped data from online portals, identifying meaningful patterns for actionable insights.
+Data Visualization (Hadoop Ecosystem, PySpark, QlikSense):
+
+Designed business solutions for an ISP, visualizing daily data and usage patterns.
+Image-Based Fraud Detection (Microsoft Face API, PySpark, OpenCV):
+
+Developed face recognition systems to detect fraudulent identities in loan applications.
+Churn Analysis (R, Python, Hadoop):
+
+Identified customers likely to churn and devised retention strategies using predictive models.
+Sentiment Analysis (Python, NLP, Apache Spark):
+
+Analyzed Twitter data to determine sentiment (positive, negative, neutral) for a mobile service provider.
+Senior Data Scientist – IBM India Pvt Ltd
+Focused on Bluemix and IBM Watson for advanced data science solutions.
+Delivered predictive analytics and data-driven personalization for cross-industry clients.
+Skills
+Programming & Tools: Python (36 months), R, SQL, Tableau, Apache Spark, Hadoop
+Visualization & BI Tools: Tableau, PySpark, QlikSense
+Big Data Tools: Hive, Hadoop Ecosystem
+Machine Learning & Algorithms: KNN, Decision Trees, LSTM, Neural Networks, Predictive Modeling
+NLP: Sentiment Analysis, Text Classification"""
+"Education
+BE, Dr. BAMU, Aurangabad
+Skills
+Languages: Python
+Python Frameworks: Django, DRF (Django REST Framework)
+Databases: MySQL, Oracle, SQLite, MongoDB
+Web Technologies: CSS, HTML, RESTful Web Services
+Development Methodologies: Agile, Scrum
+Version Control: GitHub
+Project Management Tool: Jira
+Operating Systems: Windows, Unix
+Experience
+Company: Arsys Inovics Pvt Ltd
+Role: Python Developer
+Responsibilities:
+Participated in the full lifecycle of projects, including design, development, deployment, testing, and support.
+Developed views and templates with Python and Django.
+Created CRUD operations and tested RESTful APIs using Postman.
+Implemented web crawling using Python modules such as requests and urllib.
+Worked in an Agile development environment using Jira for sprint cycle tracking.
+Managed code deployment using GitHub.
+Project
+Project Title: Frequency Monitoring and Analysis Systems (F-MAS)
+Description:
+A project for managing network inventory, communication, fault management, and network traffic analysis for telecommunication service providers.
+Built using Django, REST API, MySQL, PyMYSQL, Python, HTML5, CSS3.
+Added features such as navigation, pagination, filtering, and column management.
+Wrote Python routines for logging into websites and fetching specific data.
+Created unit test cases for testing functionality."
+"Education
+BE
+Institution: Dr. BAMU, Aurangabad
+Skills
+Languages: Python
+Python Frameworks: Django, DRF
+Databases: MySQL, Oracle, SQLite, MongoDB
+Web Technologies: CSS, HTML, RESTful Web Services
+Methodologies: Agile, Scrum
+Version Control: GitHub
+Project Management Tool: Jira
+Operating Systems: Windows, Unix
+Experience
+Python Developer
+Company: Arsys Inovics Pvt Ltd
+Responsibilities:
+Participated in the entire project lifecycle including design, development, deployment, testing, implementation, and support.
+Developed views and templates using Python and Django's view controller and templating language.
+Created CRUD methods for API requests and tested RESTful APIs using Postman.
+Worked with JSON-based REST Web Services.
+Conducted web crawling using Python modules such as requests and urllib.
+Managed navigation, pagination, and column filtering for a better user interface.
+Utilized Agile methodologies and Jira for issue tracking.
+Managed code deployment using GitHub.
+Environment: Python, Django, MySQL, HTML, CSS, SQLAlchemy, JSON, Agile, Web Services (REST), Urllib
+Project
+Project Title: Frequency Monitoring and Analysis Systems (F-MAS)
+Description:
+Aimed to manage network inventory, communication, fault management, and network traffic analysis for telecommunications service providers.
+Built using Django, Django REST API, MySQL, PyMYSQL, Python, HTML5, CSS3.
+Supported Operations Support Systems (OSS) for managing network resources and customer orders."
+"Education
+Bachelor of Engineering in Computer Science
+Institution: Savitribai Phule Pune University, Pune, Maharashtra
+Graduation Date: June 2018
+HSC
+Institution: Maharashtra State Board
+Graduation Date: June 2014
+SSC
+Institution: Maharashtra State Board
+Graduation Date: June 2012
+Skills:
+Python
+Database
+MySQL
+Django
+HTML5
+REST API
+Experience
+Python Developer – Atos Syntel
+Role Description:
+Working as a developer in the field of computer vision for a US-based client in the banking domain.
+Responsibilities:
+Designed and developed computer vision-based algorithms for image preprocessing using OpenCV, PIL, and Numpy.
+Conducted unit testing, debugging, and maintained version control using Git.
+Project
+Project Title: Computer Vision for Banking Domain
+Description:
+Developed and maintained computer vision algorithms for image preprocessing for a US-based client in the banking industry.
+Tools used: OpenCV, PIL, Numpy"
+"Education
+BE
+Institution: Dr. BAMU, Aurangabad
+Skills
+Languages: Python
+Python Frameworks: Django, DRF
+Databases: MySQL, Oracle, SQLite, MongoDB
+Web Technologies: CSS, HTML, RESTful Web Services
+Methodologies: Agile, Scrum
+Version Control: GitHub
+Project Management Tool: Jira
+Operating Systems: Windows, Unix
+Experience
+Python Developer
+Company: Arsys Inovics Pvt Ltd
+Responsibilities:
+Participated in the entire project lifecycle including design, development, deployment, testing, implementation, and support.
+Developed views and templates using Python and Django's view controller and templating language.
+Created CRUD methods for API requests and tested RESTful APIs using Postman.
+Worked with JSON-based REST Web Services.
+Conducted web crawling using Python modules such as requests and urllib.
+Managed navigation, pagination, and column filtering for a better user interface.
+Utilized Agile methodologies and Jira for issue tracking.
+Managed code deployment using GitHub.
+Environment: Python, Django, MySQL, HTML, CSS, SQLAlchemy, JSON, Agile, Web Services (REST), Urllib
+Project
+Project Title: Frequency Monitoring and Analysis Systems (F-MAS)
+Description:
+Aimed to manage network inventory, communication, fault management, and network traffic analysis for telecommunications service providers.
+Built using Django, Django REST API, MySQL, PyMYSQL, Python, HTML5, CSS3.
+Supported Operations Support Systems (OSS) for managing network resources and customer orders."
+"Education
+Bachelor of Engineering in Computer Science
+Institution: Savitribai Phule Pune University, Pune, Maharashtra
+Graduation Date: June 2018
+HSC
+Institution: Maharashtra State Board
+Graduation Date: June 2014
+SSC
+Institution: Maharashtra State Board
+Graduation Date: June 2012
+Skills
+Python
+Database
+MySQL
+Django
+HTML5
+REST API
+Experience
+Python Developer – Atos Syntel
+Role Description:
+Working as a developer in the field of computer vision for a US-based client in the banking domain.
+Responsibilities:
+Designed and developed computer vision-based algorithms for image preprocessing using OpenCV, PIL, and Numpy.
+Conducted unit testing, debugging, and maintained version control using Git.
+Project
+Project Title: Computer Vision for Banking Domain
+Description:
+Developed and maintained computer vision algorithms for image preprocessing for a US-based client in the banking industry.
+Tools used: OpenCV, PIL, Numpy"
+"Education
+B.E. in Electronics
+Institution: University of Mumbai, Mumbai, Maharashtra
+Graduation Date: January 2014
+Skills
+Languages: C, C++, Java, Python, MySQL, Django, HTML
+Scripting: Python
+Python Libraries: Numpy, Pandas, Matplotlib, Requests, Beautiful Soup
+Frontend Development: HTML
+GUI Development: Tk, Java
+Databases: MySQL
+Other Tools: MS Excel, MS Office, MS PowerPoint
+Operating Systems: Windows
+Experience
+Python Developer and Data Analyst
+
+Company: Ace The Power of 5
+Responsibilities:
+Understood functional requirements provided by the client.
+Participated in walkthroughs of business, functional, and technical requirements to ensure testability.
+Managed software configuration for project deliverables.
+Programmer/Developer
+
+Company: Kranti Dynamics
+Responsibilities:
+Focused on programming, scripting, development, and web scraping.
+Project
+Project Title: Fruit Sorting and Disease Detection
+Client: Kranti Dynamics
+Team Size: 5
+Description: Developed a system for sorting fruits and detecting diseases using Python and web scraping techniques."
+"Education
+M.Sc. in Computer Science
+Institution: Pune University, Pune, Maharashtra
+B.Sc. in Computer Science
+Institution: Pune University, Pune, Maharashtra
+H.S.C.
+Institution: Pune University, Pune, Maharashtra
+Skills
+Programming Languages & Frameworks: Python, Flask, Django, Core Java
+Web Technologies: RESTful APIs, Angular 6, HTML, CSS
+Databases: MongoDB, MySQL, PostgreSQL, DB2/400
+ERP Systems: Movex/M3 ERP, AS/400
+Tools & Platforms: Pivotal Cloud Foundry, Git
+Other Skills: Debugging, Testing, Agile Methodology, SDLC
+Experience
+Python RESTful API Developer – KPIT Technologies
+Duration: Since July 6, 2011
+Responsibilities:
+Currently working as a Python API developer with 2 years of experience in Python-MongoDB/MySQL development and support projects.
+Worked as an M3 Java developer and StreamServe developer for Movex/M3 ERP for 1 year.
+Served as a Senior AS/400 and StreamServe developer for Movex/M3 ERP for 4 years.
+Engaged in Python development for cache, memoization, and cloud-based services using Pivotal Web Service.
+Supported ERP development using AS/400 and Java, including RPG/400, ILE RPG, SQL/400, and DB2/400.
+Project
+ERP Development & API Integration:
+Description:
+Developed APIs using Python for Movex/M3 ERP systems.
+Contributed to database integration and cloud services deployment.
+Enhanced ERP functionalities with standards-compliant development using AS/400 and Java technologies."
+"Education
+BE
+Institution: Dr. BAMU, Aurangabad
+Skills
+Languages: Python
+Python Frameworks: Django, DRF
+Databases: MySQL, Oracle, SQLite, MongoDB
+Web Technologies: CSS, HTML, RESTful Web Services
+Methodologies: Agile, Scrum
+Version Control: GitHub
+Project Management Tool: Jira
+Operating Systems: Windows, Unix
+Experience
+Python Developer
+Company: Arsys Inovics Pvt Ltd
+Responsibilities:
+Participated in the entire project lifecycle, including design, development, deployment, testing, and support.
+Developed views and templates using Python and Django's view controller and templating language.
+Created CRUD methods for API requests and tested RESTful APIs using Postman.
+Worked with JSON-based REST Web Services.
+Conducted web crawling using Python modules like requests and urllib.
+Managed navigation, pagination, and column filtering for enhanced user experience.
+Utilized Agile methodologies and Jira for issue tracking.
+Managed code deployment using GitHub.
+Environment: Python, Django, MySQL, HTML, CSS, SQLAlchemy, JSON, Agile, Web Services (REST), Urllib
+Project
+Project Title: Frequency Monitoring and Analysis Systems (F-MAS)
+Description:
+A project designed for managing network inventory, communication, fault management, and network traffic analysis for telecommunication service providers.
+Built using Django, Django REST API, MySQL, PyMYSQL, Python, HTML5, CSS3.
+Supported Operations Support Systems (OSS) for managing network resources and customer orders."
+"Education
+Bachelor of Engineering in Computer Science
+Institution: Savitribai Phule Pune University, Pune, Maharashtra
+Graduation Date: June 2018
+HSC
+Institution: Maharashtra State Board
+Graduation Date: June 2014
+SSC
+Institution: Maharashtra State Board
+Graduation Date: June 2012
+Skills
+Python
+Database
+MySQL
+Django
+HTML5
+REST API
+Experience
+Python Developer – Atos Syntel
+Responsibilities:
+Worked as a developer in the field of computer vision for a US-based client in the banking domain.
+Designed and developed computer vision-based algorithms for image preprocessing using OpenCV, PIL, and Numpy.
+Conducted unit testing, debugging, and version control using Git.
+Project
+Project Title: Computer Vision for Banking Domain
+Description:
+Developed and maintained computer vision algorithms for image preprocessing using Python.
+Tools used: OpenCV, PIL, Numpy"
+"Education
+Post Graduate Diploma in Information Technology
+Institution: Symbiosis Institute, Pune, Maharashtra
+Graduation Date: January 2013
+Bachelor of Engineering in Electronics and Telecommunications
+Institution: Pune University, Pune, Maharashtra
+Graduation Date: January 2007
+Skills
+Cloud Computing
+Shell Scripting
+Python
+Automation
+Solution Architect
+Azure
+AWS
+Experience
+Cloud Operations Architect (DevOps) – DevOps
+Platform: AWS Cloud, Azure Cloud
+Responsibilities:
+Managed Tibco Spotfire Enterprise & Cloud environments.
+Built a 15-member team in India and managed 4 different projects/products.
+Provided pre-production support for QA testing environments.
+Coordinated production deployments and hotfixes.
+Conducted workshops on new AWS services for the team.
+Automation via Shell Scripting:
+Extracted and shut down running AWS instances via shell scripts.
+Released unused Elastic IPs using shell scripts.
+Triggered essential scripts using AWS Lambda functions.
+Synechron Technologies Limited
+Type: Administration, Automation & Monitoring
+Platform: Linux/Unix, Linux-Xen Servers
+Responsibilities:
+Managed Linux media server farms and provided application support.
+Patched Linux physical and Xen boxes.
+Created channels on Satellite Server.
+Automated tasks using shell scripting and provided MySQL database support.
+Troubleshot customized applications.
+Tsys Limited
+Type: Development, Automation & Monitoring
+Platform: Linux/Unix, Windows
+Responsibilities:
+Provided access to users on RHDS, CVS, and dot project servers.
+Implemented MySQL replication over Linux servers.
+Fine-tuned existing applications and debugged scripts.
+Patni Computer Systems Limited
+Project: CPI – Maintenance/Enhancements for Genworth Imaging Solutions
+Client: Genworth Financial
+Responsibilities:
+Administration Support:
+Monitored P8 Filenet applications and handled L1 support tickets.
+Administered 10 Linux proxy servers and MySQL servers.
+Implemented MySQL replication and performed database backups.
+Database Support:
+Created and tested SQL queries for client users.
+Maintained Oracle databases and deployed queries over production servers.
+Application Support:
+Ensured the functionality of customer applications like eProcess and Trexo.
+Wrote scripts to automate various applications.
+Shell Script Automation:
+Developed shell scripts to delete logs older than five days, successfully deployed over production servers.
+Project
+Project Title: Tibco Spotfire Enterprise & Cloud Environment Management
+Platform: AWS Cloud, Azure Cloud
+Description: Managed enterprise and cloud environments for Tibco Spotfire, built automation tools using shell scripting, and conducted training for team members on cloud services."
+"Education
+Masters of Science in Information Technology
+Institution: JNTU, Hyderabad, Telangana
+Duration: June 2015 – June 2017
+Skills
+Core Competencies:
+
+Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering
+Continuous Integration and Continuous Deployment
+Software Development Life Cycle
+Software Testing Life Cycle
+Documentation & Reporting
+Test Reports
+IT Skills:
+
+Primary Skills: DevOps methodologies
+Programming Languages: C, Core Java
+Version Controls: GIT, Bitbucket
+Build Tools: ANT, Maven
+CI/CD Tools: Jenkins
+Configuration Management: Ansible
+Scripting: Shell Script
+Application Servers: Apache Tomcat Server
+Experience
+DevOps Engineer – Nendrasys Technologies Pvt Ltd
+Project 1: Sloan Global Holdings (Sloan) (E-commerce)
+Project Description:
+Sloan focuses on developing e-commerce product features for B2B projects where customers can buy fixers, sinks, and related products. The project supports online sales, distribution, and marketing of products.
+
+Responsibilities:
+
+Developed scripts for build, deployment, maintenance, and related tasks using Jenkins.
+Installed, configured, and maintained CI, Automation, and Configuration Management tools.
+Created repositories, branches, and managed permissions of users in GIT/Bitbucket.
+Automated deployment using Ant, Maven, and Shell scripts to compile, package, and deploy WAR, EAR, and JAR files.
+Collaborated with architecture, development, QA, and IT teams to plan deployments and manage code propagation across environments.
+Provided daily communication with on-site teams to analyze requirements and track issues.
+Project 2: Bangkok Bank Limited (BBL) Thaitrade (E-commerce & Payment Portal)
+Project Description:
+BBL supports multiple merchants for B2B/B2C e-commerce portals with various online/offline payment options. The project integrates Thai Trade's recognized e-commerce platform with government-backed sellers and buyers.
+
+Responsibilities:
+
+Planned and tracked build and deployment activities.
+Created automated CI build and deployment infrastructure.
+Resolved build and merging conflicts for GIT repositories.
+Implemented Master-Slave architecture for Jenkins to improve performance.
+Developed and maintained Ant and Maven scripts for build automation.
+Created and maintained documentation for build and release processes.
+Coordinated with developers, QA teams, and business analysts for production deployments.
+Key Achievements:
+Designed and implemented end-to-end DevOps pipelines.
+Developed scalable CI/CD processes, ensuring seamless deployments.
+Created documentation and maintained configurations for various applications.
+
+
+
+
+"
+"Education
+Degree: B.Sc. in Mathematics
+Institution: Kakatiya University Board
+Skills
+RDBMS: MS SQL Server 2000/2005/2008/2012/2014
+Operating Systems: Windows XP/7, Windows Server 2008/2012
+Fundamentals: MS Office 2003/2007
+Tools: SSMS, Performance Monitor, SQL Profiler, SQL Lite Speed
+Experience
+Database Administrator Support – Barclays Technology Centre India
+Team Size: 24
+
+Company Description:
+Barclays Technology is a UK-based retail and investment bank with 300 years of history. It operates in over 40 countries and employs approximately 120,000 people.
+
+Responsibilities:
+
+Attended calls from global teams to address database issues.
+Resolved incident tickets and Web GUI alerts within timelines.
+Troubleshot and fixed log shipping issues and related alerts.
+Identified and resolved blocking and locking issues.
+Configured and monitored replication, log shipping, and mirroring setups.
+Worked on replication issues and Always ON availability groups.
+Managed permissions for account provisioning tasks.
+Performed DR tests and weekly maintenance jobs.
+Addressed weekend change requests and provided on-call support.
+SQL Server Database Administrator – Barclays Global Services Centre
+Responsibilities:
+Implemented and maintained SQL server databases.
+Managed log shipping, replication, high availability, clustering, performance tuning, and database mirroring.
+Performed installation, configuration, upgrading, and migration tasks.
+SQL Server Database Administrator – Wipro Infotech Pvt Ltd
+Role: SQL Server Database Administrator
+Database Support – Accord Fintech (CITI Bank)
+Duration: September 2008 – February 2013
+Responsibilities:
+Ensured database backup, restore, attach/detach, and disaster recovery.
+Developed and implemented backup and recovery strategies.
+Ensured data consistency using DBCC and DMV commands.
+Tuned queries and stored procedures to troubleshoot performance issues.
+Managed DR processes, log shipping, and database mirroring.
+Scheduled and monitored jobs, and created/maintained maintenance plans.
+Planned and implemented MS SQL Server security and permissions.
+Implemented log shipping, replication, and mirroring between servers.
+Performed performance tuning using Performance Monitor and SQL Profiler.
+Managed linked servers and database mail.
+Created DTS packages for task automation.
+Created and maintained indexes, rebuilding and reorganizing them as needed.
+Conducted daily maintenance of SQL servers, reviewing error logs and event viewers.
+Project
+Project Name: Sloan Global Holdings (Sloan)
+Description: Development and maintenance of e-commerce product features for B2B/B2C systems with focus on database availability and disaster recovery.
+Technologies: SQL Server, Replication, Log Shipping, Always ON, and Performance Tuning."
+"Education
+B.E.
+Institution: L.N.B.C. College of Engineering, Satara, Maharashtra
+Graduation Date: January 2014
+Diploma
+Institution: M.M. Polytechnic, Thergaon, Pune, Maharashtra
+Graduation Date: January 2011
+Skills
+Web Technologies: ASP.NET, HTML, CSS, jQuery
+Languages: C, C++, C#.NET, MVC 5
+Database: SQL Server 2005/2008/2016
+Reporting Tools: Kendo UI, Telerik functions, Crystal Report
+Platforms: Visual Studio 2010/2014
+Experience
+Dot Net Developer – Corecode Technology
+Responsibilities:
+Developed web applications using ASP.NET, C#, and MVC.
+Used SQL for database management.
+Designed front-end using Bootstrap, CSS, and HTML.
+Created reports with Kendo and Telerik controls.
+Dot Net Developer – Inetsoft Solution
+Responsibilities:
+Built web applications using ASP.NET and C#.
+Managed databases with SQL."
+"Education
+B.Tech
+Institution: JNTU, Kakinada, Andhra Pradesh
+Graduation Date: January 2010
+Skills
+Technologies: ASP.NET, MVC 3.0/4.0/5.0, Unit Testing, Entity Framework 6.0
+Languages: C#.NET
+JS Library: JavaScript, JQuery, Angular 1.5, Typescript
+Tools: Visual Studio 2008/2010/2012/2015, Visual Studio Code (IDE), .NET Framework 2.0, 3.5, 4.0, 4.5
+Databases: SQL Server 2005, 2008, 2014, 2015
+Source Control Tools: Tortoise SVN, Git
+Experience
+Dot Net Developer – The Tie Bar
+Duration: January 2017 to Present
+
+Responsibilities:
+
+Designed and coded in a .NET server-side environment using the Microsoft MVC framework.
+Consumed Web API and WCF Restful services.
+Utilized a test-driven development approach.
+Collaborated with project managers and team members for development efforts.
+Utilized pair programming for high-quality code development.
+Projects:
+
+The Tie Bar
+
+Environment: Visual Studio 2015, MVC 5.0, C#, JavaScript, JSON, LINQ, HTML5
+Database: SQL Server 2015
+Description: A US-based online shopping website for luxury menswear.
+Leave Management System
+
+Environment: Visual Studio 2010, ASP.Net, C#.Net, JavaScript, JQuery
+Database: SQL Server 2008
+Description: A web application managing employee leave policies.
+Around Pune (CMS)
+
+Environment: Visual Studio 2010, ASP.Net, C#.Net, JavaScript, JQuery
+Database: SQL Server 2008
+Description: A content management system showcasing tourist spots around Pune.
+Country Side
+
+Environment: Visual Studio 2008, ASP.Net, C#.Net, JavaScript, JQuery
+Database: SQL Server 2008
+Description: A CMS website providing tourist information and trip packages.
+Dot Net Developer – Hamsa Hitech Pvt. Ltd
+Responsibilities:
+
+Designed and implemented systems in a .NET server-side environment.
+Utilized ASP.Net and C#.Net with relational databases.
+Projects:
+
+A G Johnson
+
+Environment: Visual Studio 2010, ASP.Net, C#.Net, JavaScript, JQuery
+Database: SQL Server 2008
+Description: A global employment website for recruiting employees across countries.
+CRM for Company
+
+Environment: Visual Studio 2008, ASP.Net 3.0, C#.Net, JavaScript, JQuery
+Database: SQL Server 2008
+Description: A web application for managing customer relationships, projects, clients, and notifications."
+"Education
+B.E Computer Science and Engineering
+
+Institution: RTMNU University - Jhulelal Institute of Technology
+Duration: January 2013 to January 2017
+HSC
+
+Institution: Maharashtra State Board - Dayanand Arya Kanya Junior College, Nagpur, Maharashtra
+Duration: January 2011 to January 2013
+SSC
+
+Institution: Maharashtra State Board, Nagpur, Maharashtra
+Duration: January 2010 to January 2011
+Skills
+Languages Known: C, C++, J2EE, Spring, Hibernate
+Testing: Functional Testing, Manual Testing
+Operating Systems: Windows, Linux
+Packages: MS Office
+Databases: MySQL, PostgreSQL
+Experience
+Java Developer – Inouvelle Ventures Private Limited
+Location: Nagpur
+Responsibilities:
+Development and manual testing of web-based applications using Angular (Frontend) and JAVA - J2EE, Spring, Hibernate Framework (Backend).
+Database management with PostgresSQL.
+Addressed user and system requirements to solve organizational problems.
+Projects
+Stock Management System
+
+Duration: December 2017 – Till Date
+Role: Java Developer
+Language/Frameworks: Angular (Frontend), JAVA - J2EE, Spring, Hibernate Framework (Backend)
+Database: PostgresSQL
+Operating System: Windows XP/07/08
+Description:
+Developed to manage inventory for the medicinal market.
+Tracks medicines, ailments, surgical equipment, and stakeholders like wholesalers, retailers, employees, and customers.
+Ensures efficient ordering, storing, tracking, and control of inventory.
+Printing Press Management System
+
+Role: Java Developer, Manual Testing
+Language/Frameworks: Angular (Frontend), JAVA - J2EE, Spring, Hibernate Framework (Backend)
+Database: PostgresSQL
+Operating System: Windows XP/07/08
+Description:
+Designed for one of the oldest printing presses in Nagpur.
+Streamlined the management of services and products to boost efficiency, growth, and profitability.
+Focused on solving existing organizational issues with tailored solutions.
+
+
+
+
+"
+"Education
+B.E. Computer Technology
+
+Institution: Manoharbhai Patel Institute of Engineering and Technology, Gondia, Maharashtra, India
+Graduation Date: January 2017
+HSC
+
+Institution: S.M.P. Science College, Gondia, Maharashtra, India
+Skills
+Programming Languages: Java, SQL, PL/SQL, C, C++, BootStrap, JSP, Ext JS
+Operating Systems: Windows
+Tools: Toad, Eclipse, SoapBox, Postman
+Databases: Oracle, MS-SQL, MS-Access, MS-Excel
+Experience
+Java Developer – Xoriant Solutions Pvt Ltd
+Location: Pune
+
+Period: September 2017 – Present
+
+Role: Java Developer
+
+Description:
+
+Project: ResRent
+Responsible for the development of various modules for Hertz, including building interfaces for end users to manage tasks.
+Developed web services compatible with XML and JSON.
+Responsibilities:
+Developed modules across Backend, Middleware, and Frontend.
+Fixed bugs and proactively developed enhancements.
+Resolved application incidents and created task tickets.
+Debugged and provided solutions for workflows.
+Resolved database issues and provided technical support to BAs.
+Monitored deployments and their impact on ongoing jobs.
+Contributed towards automation of daily activities and process optimization.
+Delivered projects on time and within budget while meeting quality expectations.
+Maintained a knowledge base of domain, known defects, issues, and development techniques.
+Additional Responsibilities:
+
+Strong collaboration and team-building skills.
+Communicated effectively with multifunctional teams, programmers, and technical staff.
+Applied expertise in Java, SQL, Ext JS, JSP, XML, and web services.
+Demonstrated problem-solving abilities in resolving complex software issues.
+Project
+ResRent
+Developed modules for Hertz, including Backend, Middleware, and Frontend tasks.
+Created interfaces for end-users to enhance task efficiency.
+Developed web services compatible with XML and JSON.
+Utilized tools such as Eclipse, TOAD, SoapBox, and Postman.
+
+
+
+
+"
+"Education
+B.E. Information Technology
+
+Institution: Vidyalankar Institute of Technology, Goregaon, Maharashtra, India
+Graduation Date: June 2016
+Diploma in Information Technology
+
+Institution: Thakur Polytechnic, Mumbai, Maharashtra, India
+Graduation Date: May 2013
+SSC
+
+Institution: St. John's Universal School, Mumbai, Maharashtra, India
+Graduation Date: May 2010
+Skills
+Programming Languages: Java/J2EE, Swift, HTML, Shell Script
+Databases: MySQL
+Tools: SVN, Jenkins, Hudson, Weblogic12c
+Software: Android Studio, Eclipse, Oracle, Xcode
+Operating Systems: Windows 10, Mac (High Sierra)
+Experience
+Java Developer – Tech Mahindra
+Team Size: 5
+
+Environment: Java, MySQL, Shell Script
+
+Webserver: Jenkins
+
+Project 1: OR-Formatter
+
+Description:
+OR-Formatter is an application that processes Geneva Modified File (GMF) input from the Geneva server to generate bill backups and invoices for BT’s client customers. These invoices are distributed to clients post-billing.
+Contributions:
+Acted as a Java Developer, implementing change requests for existing modules.
+Performed requirement analysis, development, and unit testing for user stories.
+Handled end-to-end (E2E) issues and fixed bugs.
+Prepared program-level and user-level documentation.
+Project 2: STAA
+
+Environment: Java EJB, MySQL, Shell Script
+Webserver: Weblogic12c Server, Jenkins
+Description:
+STAA acts as an encapsulation middleware layer interfacing between client operational support systems and legacy systems. It transforms legacy data into various formats, such as TLV. Input in XML/HTTP is validated in STAA before being sent to backend systems like CSS and COSMOSS Databases. The system utilizes EJBs deployed on WebLogic Server shared across various market-facing units.
+Contributions:
+Developed services using Java/J2EE.
+Performed requirement analysis, development, and unit testing for user stories.
+Addressed E2E issues and resolved bugs.
+Supported migration from Java 1.6 to Java 1.8.
+
+
+
+
+"
+"Education
+Master of Engineering in Information Technology
+
+Institution: M.I.T, Pune, Maharashtra
+Graduation Date: January 2013
+Bachelor of Engineering in Information Technology
+
+Institution: Amravati University, Pusad, Maharashtra
+Graduation Date: January 2005
+HSC
+
+Institution: P. N. Junior College, Pusad, Maharashtra
+Graduation Date: January 2001
+SSC
+
+Institution: K.D. High-School, Pusad, Maharashtra
+Graduation Date: January 1999
+Skills
+Programming: C, C++, Java, Android
+Databases: MS Access, SQL, Oracle
+Experience
+Java Developer – Maxgen Technologies
+Company: Infrasoft Technologies, Andheri
+Role: Java Developer
+Projects
+Android Project:
+
+Title: Location Detector of Computing and Mobile Devices
+Technology: Android
+ME Project:
+
+Title: Data Deduplication
+Technology: Java
+Description:
+Developed a system to reduce redundant data and free up memory.
+Ensured storage of unique data copies and enabled access to the same data across multiple locations using pointers."
+"Education
+Master of Computer Applications (M.C.A.)
+
+Institution: Pune University, Pune, Maharashtra
+Graduation Date: January 2018
+Bachelor of Computer Applications (B.C.A.)
+
+Institution: Amravati University, Amravati, Maharashtra
+Graduation Date: January 2015
+H.S.C.
+
+Institution: Amravati University, Amravati, Maharashtra
+Graduation Date: January 2012
+S.S.C.
+
+Institution: Amravati University, Amravati, Maharashtra
+Graduation Date: January 2010
+Skills
+Programming Languages: Java (Servlet, JSP, Spring Boot)
+Web Technology: HTML5, CSS3, Bootstrap, JavaScript, JQuery, Ajax, AngularJs
+Database: MySQL
+IDE and Tools: Eclipse, Spring Tool Suite, NetBeans, Sublime Text, Atom
+Operating Systems: Windows XP, 7, 8, 10
+Experience
+Full Stack Java Developer – Salcluster Technologies
+Developed three projects using Java Servlet, JSP, Ajax, and web technologies.
+Technology: Core Java, Servlet, JSP, HTML5, CSS3, Bootstrap, JavaScript, JQuery, Ajax, and MySQL.
+Java Developer – OmegaSoft Technologies Pvt. Ltd.
+Worked in an ISO-certified company for 5 months.
+Technology: Java Spring Hibernate, AngularJs, Ajax, KendoUI, and Bootstrap.
+Architecture: MVC Architecture and service-based programming.
+Responsibilities: Developed modules like login registration, role assignment, and payments.
+Projects
+GST and Sales Billing Software
+
+Duration: 1.5 months
+Description: Web application for GST billing and sales invoicing using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.
+Dinman News Website
+
+Duration: 1 month
+Description: Website for displaying online video and text news using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.
+Agri Management Website
+
+Duration: 1.5 months
+Description: Website for purchasing and selling vegetables across India using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.
+Employment Times (Internship)
+
+Duration: 4 months
+Description: Website for posting newspapers across India using Java Spring Hibernate, AngularJs, Ajax, and MySQL.
+Includes features like admin panel, e-paper posting, subscriptions, payments, and advertisement sharing on social media."
+"Education
+Bachelor of Engineering (Computer)
+Institution: Savitribai Phule Pune University
+Skills
+Programming Language: Java
+Operating Systems: Windows, Linux (CentOS 6.6)
+Databases: Oracle, MySQL, Derby (Embedded DB)
+IDE: Eclipse (Oxygen)
+Tools: SonarQube, Putty
+Experience
+Java Developer – Aurus Tech Pvt. Ltd.
+Duration: 2 years
+Responsibilities:
+Participated in requirements gathering and design development meetings.
+Reviewed code and debugged errors to improve performance.
+Coordinated with systems partners to finalize designs and confirm requirements.
+Consistently met deadlines and requirements for all production work orders.
+Collaborated with other developers to identify and alleviate bugs in the software.
+Provided maintenance and development of bug fixes and patch sets for existing applications."
+"Education
+
+Bachelor of Science in Computer Science
+University of Miami, 2018
+Skills
+
+Programming: Python (TensorFlow, PyTorch)
+Machine Learning: Model Development, Data Preprocessing, Feature Engineering, Model Evaluation
+Deep Learning: CNNs, RNNs, Hyperparameter Tuning, Model Ensembling
+Applications: Recommendation Systems, Natural Language Processing, Sentiment Analysis, Image Classification
+Experience
+
+Machine Learning Engineer
+Developed and deployed machine learning models for various applications.
+Proficiently used Python libraries like TensorFlow and PyTorch for model building and training.
+Specialized in data preprocessing, feature engineering, and model evaluation techniques.
+Projects
+
+Recommendation System for E-commerce Platforms
+
+Designed and deployed a system to suggest products based on user behavior and purchase history.
+Natural Language Processing for Sentiment Analysis
+
+Built NLP models to analyze sentiment in textual data, enhancing customer feedback analysis.
+Image Classification for Object Recognition
+
+Developed and deployed image recognition models using deep learning techniques.
+Deep Learning Architectures
+
+Implemented CNNs and RNNs for diverse machine learning tasks.
+Optimized model performance through hyperparameter tuning and model ensembling.
+
+
+
+
+"
+"Education
+
+Bachelor of Science in Computer Science
+University of Innovation, 2017
+Skills
+
+Programming: Python (Scikit-learn, Keras)
+Machine Learning: Predictive Modeling, Statistical Analysis, Model Interpretation, Data Visualization
+Algorithms: SVMs, Decision Trees
+Tools: Docker, Containerization
+Applications: Predictive Maintenance, Fraud Detection, Time Series Forecasting
+Experience
+
+Machine Learning Engineer
+Developed and deployed machine learning solutions for real-world problems.
+Built machine learning pipelines using Scikit-learn and Keras.
+Specialized in data visualization, statistical analysis, and model interpretation techniques.
+Projects
+
+Predictive Maintenance Models for Manufacturing Systems
+
+Designed and deployed models to predict equipment failures, reducing downtime and maintenance costs.
+Fraud Detection Systems for Financial Institutions
+
+Built and implemented machine learning systems to detect fraudulent transactions, enhancing security measures.
+Time Series Forecasting for Demand Prediction
+
+Developed forecasting models to predict demand patterns, optimizing inventory and supply chain management.
+Machine Learning Algorithms and Integration
+
+Implemented SVMs and decision trees for various predictive tasks.
+Integrated machine learning models into production using Docker for seamless deployment."
+"Education
+
+Bachelor of Technology in Computer Science
+Global Institute of Technology, 2018
+Skills
+
+Programming: Python (Pandas, NumPy)
+Machine Learning: Computer Vision, Anomaly Detection, Recommendation Systems
+Algorithms: Reinforcement Learning, Self-Supervised Learning
+Tools: GPUs, Hardware Accelerators
+Applications: Data Manipulation, Model Deployment, Federated Learning
+Experience
+
+Machine Learning Engineer
+Built and deployed end-to-end machine learning pipelines, from data collection to model deployment.
+Specialized in leveraging GPUs for optimizing model inference speed.
+Actively explored emerging technologies like federated learning and self-supervised learning to stay at the cutting edge of the field.
+Projects
+
+Computer Vision Models for Object Detection
+
+Developed advanced models for detecting objects in images and videos, improving accuracy and processing efficiency.
+Anomaly Detection Systems for Cybersecurity
+
+Designed machine learning systems to identify unusual activities and potential threats, enhancing system security.
+Recommendation Systems for Personalized Content Delivery
+
+Built systems to deliver personalized content recommendations, driving user engagement and satisfaction.
+Reinforcement Learning for Autonomous Agents
+
+Implemented reinforcement learning algorithms for training autonomous agents in simulated environments.
+Optimization of Model Inference Using GPUs
+
+Leveraged hardware accelerators to optimize model inference speed, reducing latency in real-time applications."
+"Education
+
+Bachelor of Science in Computer Science
+University of California, Berkeley, 2018
+Skills
+
+Programming: Python (Scikit-learn, TensorFlow)
+Machine Learning: Recommendation Systems, Time Series Forecasting, Sentiment Analysis
+Techniques: Ensemble Learning (Bagging, Boosting), Model Distillation, Data Sharding
+Cloud Computing: Distributed Computing, Model Parallelization, Cloud-Based Deployment
+Activities: Machine Learning Research Conferences and Workshops
+Experience
+
+Machine Learning Engineer
+Developed scalable machine learning models for large-scale applications, including streaming platforms and social media monitoring.
+Leveraged distributed computing and cloud-based deployment for efficient model training and inference.
+Specialized in enhancing model scalability and robustness through data sharding and ensemble learning techniques.
+Projects
+
+Large-Scale Recommendation Systems for Streaming Platforms
+
+Built and deployed recommendation systems to personalize content delivery for millions of users.
+Time Series Forecasting Models for Energy Consumption Prediction
+
+Designed forecasting models to predict energy usage patterns, aiding resource optimization and planning.
+Sentiment Analysis Models for Social Media Monitoring
+
+Implemented sentiment analysis systems to analyze user sentiments and trends on social media platforms.
+Ensemble Learning for Improved Model Accuracy
+
+Applied bagging and boosting techniques to enhance model performance and generalization.
+Optimizing Scalability with Model Distillation and Data Sharding
+
+Improved model efficiency and scalability through innovative techniques, enabling faster training and deployment in distributed environments.
+
+
+
+
+"
+"Education
+
+Bachelor of Science in Computer Science
+Stanford University, 2016
+Skills
+
+Programming: Python (TensorFlow, PyTorch)
+Machine Learning: Model Development, Deployment, Evaluation
+Techniques: Data Preprocessing, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Model Ensembling
+Deep Learning: CNNs, RNNs
+Applications: Recommendation Systems, Sentiment Analysis, Image Classification
+Experience
+
+Machine Learning Engineer
+Developed and deployed machine learning models for a variety of applications, including e-commerce, NLP, and computer vision.
+Proficient in end-to-end model development, including preprocessing, feature engineering, training, and evaluation.
+Implemented and fine-tuned deep learning architectures such as CNNs and RNNs.
+Regularly engage in research to stay current with advancements in machine learning.
+Projects
+
+Recommendation Systems for E-Commerce Platforms
+
+Built personalized recommendation engines to enhance user experience and increase conversion rates.
+NLP Models for Sentiment Analysis
+
+Developed natural language processing models to analyze and predict user sentiment.
+Image Classification Models for Object Recognition
+
+Designed and deployed image classification systems to improve object detection and recognition.
+Deep Learning Architectures Optimization
+
+Implemented and optimized CNN and RNN models for improved performance.
+Model Tuning and Ensembling
+
+Achieved higher accuracy through hyperparameter optimization and model ensembling techniques.
+
+
+
+
+"
+"Education
+
+Bachelor of Science in Computer Science
+Massachusetts Institute of Technology, 2017
+Skills
+
+Programming: Python (Scikit-learn, Keras)
+Machine Learning: Predictive Modeling, Statistical Analysis, Model Interpretation
+Data Visualization: Matplotlib, Seaborn
+Algorithms: SVMs, Decision Trees
+Deployment: Docker, Containerization, Model Integration
+Applications: Predictive Maintenance, Fraud Detection, Time Series Forecasting
+Experience
+
+Machine Learning Engineer
+Designed and deployed machine learning pipelines for diverse real-world problems.
+Conducted statistical analysis and feature engineering for improved model accuracy.
+Integrated machine learning models into production environments using containerization tools.
+Actively engaged in machine learning competitions and open-source collaborations.
+Projects
+
+Predictive Maintenance Models for Manufacturing Systems
+
+Built machine learning models to predict equipment failure, reducing downtime and costs.
+Fraud Detection Systems for Financial Institutions
+
+Developed fraud detection algorithms to identify and prevent fraudulent transactions.
+Time Series Forecasting Models for Demand Prediction
+
+Implemented forecasting models to predict demand trends, optimizing inventory management.
+Algorithm Implementation
+
+Applied SVMs and Decision Trees for classification tasks across multiple domains.
+Production Deployment with Docker
+
+Streamlined model deployment using Docker for scalable and reliable applications."
+"Education
+
+Bachelor of Science in Computer Science
+Stanford University, 2018
+Skills
+
+Programming: Python (Pandas, NumPy)
+Machine Learning: Computer Vision, Anomaly Detection, Recommendation Systems
+Algorithms: Reinforcement Learning, Federated Learning, Self-Supervised Learning
+Optimization: GPU Acceleration, Model Inference Speed
+Deployment: End-to-End Pipelines, Model Deployment
+Applications: Object Detection, Cybersecurity, Personalized Content Delivery
+Experience
+
+Machine Learning Engineer
+Designed and implemented end-to-end machine learning pipelines, from data collection to deployment.
+Developed anomaly detection and recommendation systems to enhance application performance.
+Researched and applied cutting-edge technologies such as federated learning and self-supervised learning.
+Optimized model inference speed using hardware accelerators like GPUs.
+Projects
+
+Object Detection Models for Computer Vision
+
+Built computer vision models for detecting objects in real-time applications.
+Cybersecurity Anomaly Detection Systems
+
+Designed machine learning algorithms to detect irregularities and prevent cyber threats.
+Recommendation Systems for Personalized Content Delivery
+
+Developed systems to deliver tailored recommendations for users based on preferences and behavior.
+Reinforcement Learning for Autonomous Agents
+
+Implemented RL algorithms to enable intelligent decision-making in simulated environments.
+Hardware Optimization with GPUs
+
+Accelerated model inference and computation speed using GPU-based optimization techniques."
+"Education
+
+Bachelor of Science in Computer Science
+Massachusetts Institute of Technology (MIT), 2018
+Skills
+
+Programming: Python (TensorFlow, PyTorch)
+Machine Learning: Recommendation Systems, Natural Language Processing (NLP), Image Classification
+Architectures: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
+Techniques: Data Preprocessing, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Model Ensembling
+Tools: Model Deployment, Research Paper Review
+Experience
+
+Machine Learning Engineer
+Built and trained machine learning models for various applications using TensorFlow and PyTorch.
+Developed recommendation systems for e-commerce platforms to enhance user experience.
+Designed NLP models for sentiment analysis, achieving high accuracy in text classification tasks.
+Deployed image classification models for object recognition in real-time scenarios.
+Contributed to optimizing deep learning architectures through model ensembling and hyperparameter tuning.
+Projects
+
+Recommendation Systems for E-commerce Platforms
+
+Implemented personalized recommendation algorithms to improve product discovery and user engagement.
+Natural Language Processing Models for Sentiment Analysis
+
+Developed text classification models to analyze customer feedback and assess sentiment.
+Image Classification Models for Object Recognition
+
+Built deep learning models to accurately identify and classify objects in images.
+Deep Learning Architectures (CNNs and RNNs)
+
+Designed and trained advanced neural networks for computer vision and sequential data tasks.
+Optimization through Hyperparameter Tuning and Model Ensembling
+
+Enhanced model performance by fine-tuning parameters and combining multiple models to achieve superior results."
+"Education
+
+Master of Science in Data Science
+Stanford University, 2019
+Skills
+
+Programming: Python, SQL
+Libraries & Tools: Pandas, SQLAlchemy
+Machine Learning: Supervised Learning, Unsupervised Learning, Anomaly Detection
+Data Visualization: Interactive Dashboards
+Data Analysis: Customer Segmentation, User Behavior Analysis, Fraud Detection
+Experience
+
+Data Scientist
+Extracted actionable insights from large, complex datasets to drive business decisions.
+Designed predictive models for customer segmentation to improve marketing strategies.
+Analyzed user behavior data to identify trends and inform product development.
+Implemented anomaly detection algorithms to identify and prevent fraudulent activities.
+Optimized SQL queries to improve database performance and efficiency.
+Projects
+
+Predictive Models for Customer Segmentation
+
+Built machine learning models to classify customers into distinct segments based on purchasing patterns.
+User Behavior Analysis for Product Improvement
+
+Analyzed data on user interactions to identify key features driving product engagement.
+Anomaly Detection for Fraud Prevention
+
+Developed algorithms to detect unusual patterns indicative of fraudulent activities.
+SQL Query Optimization
+
+Enhanced query performance for large datasets, reducing processing time significantly.
+Interactive Dashboards for Data Visualization
+
+Created user-friendly dashboards to present data insights to stakeholders effectively.
+
+
+
+
+"
+"Education
+
+Bachelor of Science in Computer Science
+University of California, Berkeley, 2020
+Skills
+
+Frontend Technologies: HTML5, CSS3, JavaScript, React.js
+Backend Technologies: Node.js, Django
+Databases: MySQL, MongoDB
+Development Practices: Responsive Design, Cross-Browser Compatibility, Lazy Loading, Code Splitting
+Other Skills: Authentication & Authorization, Automated Testing
+Experience
+
+Full Stack Developer
+Designed and developed user-centric web applications using modern frontend and backend technologies.
+Built full stack applications for content management systems with robust data storage and retrieval functionalities.
+Implemented responsive web designs ensuring seamless user experience across devices and browsers.
+Optimized website performance using techniques such as lazy loading and code splitting.
+Integrated secure authentication and authorization mechanisms to safeguard user data.
+Set up automated testing frameworks for both frontend and backend components to ensure code reliability.
+Projects
+
+Content Management System
+
+Built a full stack web application for managing digital content, incorporating user-friendly interfaces and efficient database interactions.
+Responsive Web Design Implementation
+
+Designed and implemented responsive layouts to ensure consistent user experience on various devices and screen sizes.
+Website Performance Optimization
+
+Applied lazy loading and code splitting techniques to enhance website performance and reduce loading times.
+Authentication and Authorization
+
+Developed secure login and role-based access control systems using Node.js and Django.
+Automated Testing Frameworks
+
+Implemented Jest and Mocha for frontend and backend testing, ensuring quality and reducing manual testing efforts.
+
+
+
+
+
+"
+"Education
+
+Bachelor of Engineering in Computer Engineering
+Late G.N. Sapkal College of Engineering, Nashik, Maharashtra
+August 2013 – July 2016
+
+Diploma in Computer Technology
+K.K. Wagh Polytechnic, Nashik, Maharashtra
+July 2009 – June 2013
+
+Skills
+
+Programming Languages: Java, J2EE, PHP
+Frameworks: Spring MVC, Hibernate, Struts, Servlet, Rest API, IONIC
+Web Technologies: JSP, JavaScript, AJAX, HTML, JSON
+Database: MySQL, MsSQL, Oracle
+Web Servers: Apache Tomcat Server
+Cloud Platforms: Azure Web Services
+Other Skills: Internet technologies, OneSignal Web Push Notifications
+Operating Systems: Windows Server 2012 R2, Windows XP/7/8.1/10, Linux, Mac OS
+Experience
+
+Java Developer
+Replete Business Solutions Pvt. Ltd.
+Developed web applications using Spring MVC and J2EE frameworks.
+Worked with MySQL and MsSQL databases for backend data storage and retrieval.
+Designed dynamic web interfaces using AJAX, JavaScript, and HTML.
+Integrated IONIC 3 framework and AngularJS for hybrid application development.
+Implemented REST APIs for seamless communication between server and client-side applications.
+Utilized Azure Web Services for deployment and management of applications.
+Projects
+
+Enterprise Web Application
+
+Built a robust web application using Spring MVC, JSP, and Hibernate to manage enterprise workflows.
+Hybrid Mobile Application
+
+Developed a cross-platform mobile application using IONIC 3 framework and AngularJS.
+Database Management System
+
+Designed and optimized database schemas for business applications using MySQL and MsSQL.
+Real-Time Notifications
+
+Integrated OneSignal Web Push Notifications to provide real-time updates to users.
+REST API Development
+
+Created REST APIs for seamless integration with third-party services and client applications."
+"Education
+
+Bachelor of Engineering in Computer Engineering
+Late G.N. Sapkal College of Engineering, Nashik, Maharashtra
+August 2013 – July 2016
+
+Diploma in Computer Technology
+K.K. Wagh Polytechnic, Nashik, Maharashtra
+July 2009 – June 2013
+
+Skills
+
+Programming Languages: Java, J2EE, PHP
+Frameworks: Spring MVC, Hibernate, Struts, Servlet, Rest API, IONIC 3
+Web Technologies: JSP, JavaScript, AJAX, HTML, JSON
+Database: MySQL, MsSQL, Oracle
+Web Servers: Apache Tomcat Server
+Cloud Platforms: Azure Web Services
+Other Skills: Internet technologies, OneSignal Web Push Notifications
+Operating Systems: Windows Server 2012 R2, Windows XP/7/8.1/10, Linux, Mac OS
+Experience
+
+Java Developer
+Replete Business Solutions Pvt. Ltd.
+Developed web applications using Spring MVC and J2EE frameworks.
+Worked with MySQL and MsSQL databases for backend operations.
+Designed and maintained dynamic web interfaces using AJAX, JavaScript, and HTML.
+Leveraged IONIC 3 framework and AngularJS for hybrid application development.
+Implemented REST APIs for efficient client-server communication.
+Utilized Azure Web Services for application deployment and management.
+Projects
+
+E-Commerce Web Application
+
+Built a scalable e-commerce platform using Spring MVC, JSP, and Hibernate.
+Integrated secure payment gateways and real-time order tracking.
+Hybrid Mobile Application
+
+Developed a cross-platform mobile app for customer engagement using IONIC 3 and AngularJS.
+Real-Time Notification System
+
+Implemented OneSignal Web Push Notifications for delivering instant alerts and updates.
+Data Management Tool
+
+Designed a database management system using MySQL and MsSQL to streamline business operations.
+REST API Integration
+
+Created REST APIs for third-party service integrations to enhance application functionality."
+"Education
+
+Master of Engineering in Computer Science
+Savitribai Phule Pune University, Pune, Maharashtra
+June 2015 – February 2018
+
+Secondary School Certificate (S.S.C.)
+Maharashtra Secondary Board, Solapur, Maharashtra
+June 2007
+
+Skills
+
+Programming Languages: Java (Core and Advanced), C, C++
+Frameworks: Hibernate, Spring, JSP, Servlet
+Databases: MySQL, Oracle
+Tools/Packages: Visual Basic 6.0, UML, Packet Tracer
+Web Technologies: Core Java, Advanced Java, JSP, Hibernate, Spring
+Operating Systems: Windows XP, 7, 10
+Experience
+
+Java Developer
+Maxgen Technologies Pvt. Ltd.
+
+Worked on web application development using Hibernate, JSP, and Servlet technologies.
+Developed and maintained web applications with a focus on database integration using MySQL.
+Trainer
+Prakshal IT Academy
+
+Conducted training sessions on A+, N+, and CCNA (routing and switching) topics.
+Projects
+
+Diploma Project: Banking Software
+
+Description: Utilized GSM technology for transaction message security.
+Technologies Used: Visual Basic 6.0 (Frontend), Oracle 9i (Backend)
+Environment: Windows XP
+Bachelor's Project: Single Sign-On
+
+Description: Created a ""single sign-on"" mechanism for network security.
+Technologies Used: Java (Frontend), Oracle 10g (Backend)
+Environment: Windows 7
+Master's Project: Text-Based Graphical Password
+
+Description: Developed a secure password system using a Random Printing Algorithm to prevent shoulder-surfing attacks.
+Technologies Used: Java (Frontend), MySQL (Backend)
+Environment: Windows 10
+Company Project: Agriculture Management System
+
+Description: Built a web application for agriculture and farming management.
+Technologies Used: Hibernate (Frontend), MySQL (Backend)
+Environment: Windows 10"
+"Education
+
+M.C.A (Master of Computer Applications)
+Pune University, Pune, Maharashtra – January 2018
+
+B.C.A (Bachelor of Computer Applications)
+Amravati University, Amravati, Maharashtra – January 2015
+
+H.S.C
+Amravati University, Amravati, Maharashtra – January 2012
+
+S.S.C
+Amravati University, Amravati, Maharashtra – January 2010
+
+Skills
+
+Programming Languages: Java (Servlet, JSP, Spring Boot)
+Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, JQuery, Ajax, AngularJs
+Database: MySQL
+Tools & IDEs: Eclipse, Spring Tool Suite, NetBeans, Sublime Text, Atom
+Operating Systems: Windows XP, 7, 8, 10
+Certifications:
+
+Java Developer Certificate from Unanth Technical Institute
+Java Certificate from Solo Learn
+Command Line Crash Course Certificate from Udemy
+Experience
+
+Java Developer
+Salcluster Technologies LLP
+
+Developed web applications using Java Servlet, JSP, Ajax, and other web technologies.
+Utilized technologies like HTML5, CSS3, JavaScript, and Bootstrap for UI design.
+Java Developer
+OmegaSoft Technologies Pvt. Ltd.
+
+Worked on projects using Java Spring Hibernate, AngularJs, Ajax, KendoUI, and Bootstrap.
+Developed modules for login registration, role assignment, and payments using MVC architecture.
+Projects
+
+GST And Sales Billing Software
+
+Duration: 1.5 Months
+Technologies Used: Java (Servlet and JSP), JavaScript, Jquery, Ajax, MySQL
+Description: Developed a web application for GST billing, invoice generation, and sales order management. Included master pages for customer, item, and payment management.
+Dinman News Website
+
+Duration: 1 Month
+Technologies Used: Java (Servlet and JSP), JavaScript, Jquery, Ajax, MySQL
+Description: Created a client website for displaying online video and text news.
+Agri Management Website
+
+Duration: 1.5 Months
+Technologies Used: Java (Servlet and JSP), JavaScript, Jquery, Ajax, MySQL
+Description: Designed a platform for purchasing and selling vegetables across India.
+Internship Project
+
+Employment Times
+Duration: 4 Months
+Technologies Used: Java, Spring, Hibernate, AngularJs, Ajax, MySQL
+Description: Developed a lightweight website for posting newspapers and advertisements using MVC architecture. Implemented modules for admin panels, e-paper posting, subscriptions, and payment systems.
+
+
+
+
+"
+"Education
+
+Master of Engineering (Information Technology)
+M.I.T, Pune, Maharashtra – January 2013
+Bachelor of Engineering (Information Technology)
+Amravati University, Pusad, Maharashtra – January 2005
+Higher Secondary Certificate (HSC)
+P. N. Junior College, Pusad, Maharashtra – January 2001
+S.S.C
+K.D. High School, Pusad, Maharashtra – January 1999
+Skills
+
+Programming Languages: C, C++, Java, Android
+Databases: MS Access, SQL, Oracle
+Frameworks & Technologies: Core Java, Advance Java, JSF, Hibernate, Spring
+Mobile App Development: Android
+Experience
+
+Java Developer
+Maxgen Technologies
+Currently working as a Java Developer at Infrasoft Technologies, Andheri.
+Projects
+
+Android Project: Location Detector of Computing and Mobile Devices
+Developed an application to detect the location of computing and mobile devices using Android.
+M.E. Project: Data Deduplication
+Designed a system to reduce redundant data and free up memory. Unique data is stored, and pointers are used for access to the same data from multiple locations."

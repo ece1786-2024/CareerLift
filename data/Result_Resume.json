@@ -1,0 +1,37 @@
+{
+    "Education": [
+        {
+            "Degree": "Honors Bachelor of Science in Physics, Minor in Computing",
+            "Institution": "University of Waterloo",
+            "CGPA": ""
+        }
+    ],
+    "Experience": [
+        {
+            "Role": "Data Science Assurance Associate",
+            "Company": "Ernst & Young LLP",
+            "Description": "Developed an automated review platform utilizing predictive coding and topic modeling, reducing review costs and time. Conducted R&D on classification models and text data mining for fraud detection utilizing Python, scikit-learn, and Tableau. Integrated cloud-based solutions for enhanced data processing and storage efficiency."
+        },
+        {
+            "Role": "Multiple Data Science Projects for USA Clients",
+            "Company": "",
+            "Description": "Implemented sentiment analysis and time-series analysis on survey data for motor vehicle customer reviews using NLP techniques. Designed a chatbot for customer query management using Python, JavaScript, and SQL Server. Developed a Fraud Analytic Platform enabling advanced data analytics for ERP systems."
+        }
+    ],
+    "Skills": [
+        "Programming Languages: Python, SQL, JavaScript",
+        "Machine Learning: Sentiment Analysis, Topic Modeling, NLP",
+        "Database & Visualization Tools: MySQL, Elasticsearch, Tableau",
+        "DevOps: Docker"
+    ],
+    "Projects": [
+        {
+            "Project": "Fraud Analytic Platform",
+            "Describe": "Engineered a dynamic platform for fraud detection employing advanced analytics, resulting in a XX% reduction in detection time using HTML, SQL Server, and JavaScript."
+        },
+        {
+            "Project": "Chatbot Development",
+            "Describe": "Developed a customer service chatbot enhancing query handling efficiency by XX% through Python and SQL Server integration."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+\documentclass[a4paper,9pt]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\renewcommand{\baselinestretch}{1.1}
+
+\titleformat{\section}{\bfseries\large\vspace{-1ex}}{}{0em}{}
+\titleformat{\subsection}{\bfseries\vspace{-1ex}}{}{0em}{}
+\titlespacing*{\section}{0pt}{2ex}{1ex}
+\titlespacing*{\subsection}{0pt}{1ex}{0.5ex}
+
+\setlist[itemize]{noitemsep, topsep=0pt, left=1em}
+\setlength{\parskip}{0em}
+\setlength{\parindent}{0em}
+
+\newcommand{\sectionrule}{
+    \vspace{0.5em}
+    \hrule height 0.4pt
+    \vspace{0.5em}
+}
+
+\begin{document}
+
+% Education Section
+\section*{\Large Education}
+\sectionrule
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+\textbf{University of Waterloo} & Xxx,Xxx \\
+\textit{Honors Bachelor of Science in Physics, Minor in Computing} & \textit{Xxx,Xxx - Xxx,Xxx} \\
+\end{tabular*}
+
+\vspace{0.8em}
+
+% Experience Section
+\section*{\Large Experience}
+\sectionrule
+\noindent
+\textbf{Ernst \& Young LLP} \hfill Xxx,Xxx \\
+Data Science Assurance Associate \hfill \textit{Xxx,Xxx - Xxx,Xxx}
+\begin{itemize}
+    \item Developed an automated review platform utilizing predictive coding and topic modeling, reducing review costs and time.
+    \item Conducted R\&D on classification models and text data mining for fraud detection utilizing Python, scikit-learn, and Tableau.
+    \item Integrated cloud-based solutions for enhanced data processing and storage efficiency.
+\end{itemize}
+
+\vspace{0.8em}
+
+\noindent
+\textbf{x} \hfill Xxx,Xxx \\
+Multiple Data Science Projects for USA Clients \hfill \textit{Xxx,Xxx - Xxx,Xxx}
+\begin{itemize}
+    \item Implemented sentiment analysis and time-series analysis on survey data for motor vehicle customer reviews using NLP techniques.
+    \item Designed a chatbot for customer query management using Python, JavaScript, and SQL Server.
+    \item Developed a Fraud Analytic Platform enabling advanced data analytics for ERP systems.
+\end{itemize}
+
+\vspace{0.8em}
+
+% Projects Section
+\section*{\Large Project}
+\sectionrule
+\noindent
+\textbf{Fraud Analytic Platform} | \textit{x} \hfill \textit{Xxx,Xxx - Xxx,Xxx}
+\begin{itemize}
+    \item Engineered a dynamic platform for fraud detection employing advanced analytics, resulting in a XX\% reduction in detection time using HTML, SQL Server, and JavaScript.
+\end{itemize}
+
+\vspace{0.8em}
+
+\noindent
+\textbf{Chatbot Development} | \textit{x} \hfill \textit{Xxx,Xxx - Xxx,Xxx}
+\begin{itemize}
+    \item Developed a customer service chatbot enhancing query handling efficiency by XX\% through Python and SQL Server integration.
+\end{itemize}
+
+\vspace{0.8em}
+
+\section*{\Large Technical Skills}
+\sectionrule
+\noindent
+\textbf{Languages}: Python, SQL, JavaScript \\
+\textbf{Frameworks}: Sentiment Analysis, Topic Modeling, NLP \\
+\textbf{Databases}: MySQL, Elasticsearch, Tableau
+
+\end{document}

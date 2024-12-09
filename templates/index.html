@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Aligned Resume Generator</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1><span class="highlight">CareerLift: </span> Get Job Aligned Resume</h1>
+    <form id="resume-form">
+        <!-- Job Description Section -->
+        <label for="job-description" style="display: flex; align-items: center; justify-content: space-between;">
+            Job Description Text
+            <button type="button" id="autofill-job-desc" class="autofill-btn">Auto Fill</button>
+        </label>
+        <textarea id="job-description" name="jobDescription" placeholder="Paste Job Description Text Here..."
+                  maxlength="5500"></textarea>
+        <small class="char-limit">0/5500</small>
+
+
+        <!-- File Upload Section -->
+        <label for="resume-upload">Upload Your Resume or Related Data (Text)</label>
+        <textarea id="resume-upload" name="jobDescription" placeholder="Paste Related Data Here..."
+                  maxlength="5500"></textarea>
+        <small class="char-limit">0/5500</small>
+
+        <!-- LLM Provider Selection -->
+        <label for="llm-provider">Select LLM Provider:</label>
+        <select id="llm-provider" name="llmProvider">
+            <option value="openai">OpenAI</option>
+        </select>
+
+        <!-- New Selection Field: SDE, DS, MLE -->
+        <label for="role-selection">Select Role (SDE, DS, MLE):</label>
+        <select id="role-selection" name="roleSelection">
+            <option value="SDE">SDE</option>
+            <option value="DS">DS</option>
+            <option value="MLE">MLE</option>
+        </select>
+
+        <!-- API Key Input -->
+        <label for="api-key">Enter API Key:</label>
+        <div class="api-key-container">
+            <input type="password" id="api-key" name="apiKey" placeholder="API Key">
+            <button type="button" class="toggle-visibility">👁️</button>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="buttons">
+            <button type="submit" class="btn">Get Resume</button>
+            <button type="submit" class="btn">Get Advice</button>
+            <button type="submit" class="btn">Run CareerLift</button>
+        </div>
+    </form>
+    <!-- Results Display Section -->
+    <div id="result-container">
+        <h2>Result</h2>
+        <pre id="result-content"></pre>
+        <div id="download-container"></div>
+    </div>
+
+</div>
+<script src="../static/script.js"></script>
+</body>
+</html>

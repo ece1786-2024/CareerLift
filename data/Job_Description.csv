@@ -1,0 +1,26 @@
+Title,JD
+SDE,"Roles:
+Design, build, and maintain highly scalable, robust, and efficient cloud infrastructure using Google Cloud Platform (GCP) services, including Vertex AI, BigTable, BigQuery, and Cloud Composer.
+Develop automation and orchestration of ML pipelines, integrating data ingestion, feature engineering, training, and deployment processes.
+Collaborate with cross-functional teams to understand their needs and build solutions that improve platform usability, scalability, and the overall development experience.
+Optimize data processing pipelines and cloud resources to ensure low-latency, cost-effective operation.
+Implement monitoring, alerting, and failover strategies to ensure platform reliability.
+Stay updated with industry trends and best practices in cloud engineering, data engineering, and machine learning
+
+Qualifications:
+Customer-centric mindset: Passionate about delivering an exceptional experience for data scientists through a self-service platform, reducing friction in their workflows.
+Collaboration: Strong communication skills to work closely with cross-functional teams, including data scientists and engineers, to ensure platform features meet user needs and expectations.
+Problem-solving: Ability to identify and solve complex technical issues related to ML pipelines, cloud infrastructure, and scalability, ensuring an efficient and robust platform.
+Automation-first approach: Commitment to streamlining and automating processes for scalability and reliability, enabling data scientists to focus on experimentation and model development.
+Adaptability: Ability to quickly adjust to new technologies and evolving platform needs to keep the infrastructure cutting-edge and efficient.
+Ownership and initiative: Comfortable taking ownership of key platform components, driving innovation and improvements that benefit the platform’s scalability and usability.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+2+ years of experience in software engineering with a focus on cloud infrastructure and/or data engineering.
+Hands-on experience with Google Cloud Platform services such as Vertex AI, BigTable, BigQuery, Cloud Composer, Cloud Storage, etc.
+Proficiency in one or more programming languages such as Python, Java, and SQL.
+Experience with orchestration tools such as Apache Airflow (Composer).
+Knowledge of CI/CD pipelines and DevOps tools for continuous integration and deployment.
+Familiarity with containerization and orchestration (Docker, Kubernetes).
+Strong problem-solving skills and attention to detail.
+Excellent communication skills and ability to work in a collaborative, fast-paced environment"
+
