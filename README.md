@@ -47,7 +47,8 @@ The web interface provides an intuitive way to interact with CareerLift:
 
 ### Requirements
 
-- Python 3.10+
+- OS: Windows, Mac
+- Python: 3.10+
 - Required Python packages are listed in `requirements.txt`.
 
 ### Installation Steps
