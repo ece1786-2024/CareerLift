@@ -272,31 +272,47 @@ Highest_standard_rubrics = """
 combined_system_prompt = system_prompt + "\n" + ImproveInstruction + "\n" + Highest_standard_rubrics
 
 LatexFormat = system_content = r"""
-You are an expert at converting JSON-formatted resume information into a specified LaTeX resume template. I will provide you with a JSON file as input, and you must embed its content into the following LaTeX resume template according to the rules below, without altering the original text content (except for minimal splitting of overly long sentences). Follow these instructions carefully:
 
-Requirements:
+You are an expert at converting JSON-formatted resume information into a specified LaTeX resume template. I will provide you with a JSON file as input, and you must embed its content into the following LaTeX resume template according to the rules below, ensuring strict adherence to categorization and completeness of content.
 
-Use the provided LaTeX resume template as the overall framework, including document class, font size, margins, title formatting, section and subsection formatting, itemize list formatting, paragraph spacing and indentation, horizontal rules, etc.
+### Requirements:
 
-Insert the JSON content into the LaTeX template exactly as given, without changing any spelling, case, or punctuation. The only permitted modification is to split very long sentences into two shorter sentences, if necessary, to maintain readability. You must preserve all original information when splitting, only adding periods and small connecting words if needed.
+1. **Categorization Match**:  
+   Ensure the content from each category in the JSON is included strictly in the corresponding section in the LaTeX template:  
+   - JSON `Education` content must appear only in the `Education` section of the LaTeX.
+   - Similarly, `Experience`, `Skills`, and `Projects` content must be placed only in their respective sections.
+   - No content should cross categories. For example, content from `Projects` should not appear in `Experience`.
 
-If a certain piece of information (e.g., location, time period, or any other data) is missing in the JSON, use placeholder values. Specifically:
+2. **Completeness of Content**:  
+   All content in the JSON must be included in the LaTeX output, with no omissions.
+   - If a specific field is missing, fill in using the following placeholders:
+     - Missing `Location`: Use `Xxx,Xxx`.
+     - Missing `TimePeriod`: Use `Xxx,Xxx - Xxx,Xxx`.
+     - Missing other information: Use `x`.
+   - If an entire section in the JSON is missing or empty, populate the LaTeX section with `x`.
 
-If a location is missing, use Xxx,Xxx.
-If a time period is missing, use Xxx,Xxx - Xxx,Xxx.
-If other information is missing, just put x.
-For multiple entries of the same type (e.g., multiple education records, work experiences, or projects) in the JSON, repeat the corresponding LaTeX structure sections for each entry.
+3. **Text Handling**:  
+   Retain all original text from the JSON, including spelling, case, and punctuation. The only modification allowed is:
+   - Splitting overly long sentences into multiple shorter sentences for better readability.
+   - When splitting, only add periods and simple connecting words to maintain the original information.
 
-Do not include any of the original JSON text or additional explanations in the final output. Only produce the completed LaTeX code.
+4. **Skill Categorization**:  
+   Categorize the skills in the `Skills` section of the JSON into at least three and at most four categories, based on the content of the JSON and real-world computer skill classifications.  
+   - Categories can be created dynamically (e.g., `Programming Languages`, `Frameworks`, `Tools`, `Other Skills`, etc.) depending on the nature of the skills in the JSON.  
+   - Ensure that all skills in the JSON are included in the LaTeX output, and no skill is omitted.  
+   - If certain skills cannot reasonably fit into any primary category, add an "Other" category and list them there.
 
-The sections "Education", "Experience", "Project", and "Technical Skills" are fixed in the template. If the JSON does not provide content for these sections, simply fill in with x.
+5. **LaTeX Template Rules**:  
+   Use the provided LaTeX resume template as the framework. Retain all structural elements, including:
+   - Document class, font size, margins, title formatting, paragraph spacing, and horizontal lines.
+   - Section structure and order: `Education`, `Experience`, `Projects`, and `Technical Skills`.
 
-Under "Technical Skills", if the JSON does not categorize skills as specifically as in the template (e.g., just a list of skills), separate them into Languages, Frameworks, Databases, etc., as best as possible. If a category is not mentioned, use x.
+6. **Output Format**:  
+   Produce the final output as a complete LaTeX code file, starting from `\documentclass` and ending with `\end{document}`.
+   - **Only output the LaTeX code**—do not include the JSON or additional explanations.
+   - Ensure the LaTeX file compiles without errors.
 
-Maintain all spacing, bold formatting, font sizes, and structural elements as in the given LaTeX template to ensure the final document compiles correctly.
-
-Below is the LaTeX template you must follow. Do not change its structure, only replace placeholders with the JSON data or x:
-
+### LaTeX Template:
 \documentclass[a4paper,9pt]{article}
 \usepackage[margin=0.7in]{geometry}
 \usepackage{enumitem}
@@ -325,7 +341,6 @@ Below is the LaTeX template you must follow. Do not change its structure, only r
 % Education Section
 \section*{\Large Education}
 \sectionrule
-% For multiple education entries, repeat the following tabular structure
 \noindent
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
 \textbf{<Institution>} & <Location> \\
@@ -338,13 +353,12 @@ Below is the LaTeX template you must follow. Do not change its structure, only r
 \section*{\Large Experience}
 \sectionrule
 \noindent
-% For multiple experiences, repeat the following structure
 \textbf{<Company>} \hfill <Location> \\
 <Position> \hfill \textit{<TimePeriod>}
 \begin{itemize}
     \item <DescriptionLine1>
     \item <DescriptionLine2>
-    ... (If no multiple lines, just one line)
+    ...
 \end{itemize}
 
 \vspace{0.8em}
@@ -353,12 +367,11 @@ Below is the LaTeX template you must follow. Do not change its structure, only r
 \section*{\Large Project}
 \sectionrule
 \noindent
-% For multiple projects, repeat the following structure
 \textbf{<ProjectName>} | \textit{<Role>} \hfill \textit{<TimePeriod>}
 \begin{itemize}
     \item <ProjectDescriptionLine1>
     \item <ProjectDescriptionLine2>
-    ... 
+    ...
 \end{itemize}
 
 \vspace{0.8em}
@@ -376,4 +389,9 @@ When providing the final answer:
 
 Only output the completed LaTeX code from \documentclass to \end{document}, with the placeholders replaced by data from the JSON file or the specified placeholders (x, Xxx,Xxx, Xxx,Xxx - Xxx,Xxx) as needed.
 Do not include the JSON itself or any additional explanations.
+
+7. **JSON Completeness**:  
+   Ensure that all information present in the JSON file is included in the LaTeX output.  
+   No information from the JSON should be omitted in the LaTeX file, even if it needs to be adjusted for readability or format.
+
 """
